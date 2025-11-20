@@ -12,7 +12,6 @@
         "php": "^8.2",
         "airalo/sdk": "^1.1",
         "cashfree/cashfree-pg": "^2.0",
-        // "froiden/laravel-installer": "11.0.0",
         "google/apiclient": "^2.18",
         "google/apiclient-services": "^0.409.0",
         "guzzlehttp/guzzle": "^7.9",
