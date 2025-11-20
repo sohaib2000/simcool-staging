@@ -161,7 +161,7 @@ function checkSystemRequirements()
 {
     $requirements = [
         'php_version' => ['status' => false, 'message' => '', 'required' => true, 'fix' => ''],
-        'php_extensions' => ['status' => false, 'message' => '', 'required' => true, 'fix' => ''],
+        'php_extensions' => ['status' => false, 'message' => '', 'required' => false, 'fix' => ''],
         'composer_version' => ['status' => false, 'message' => '', 'required' => true, 'fix' => ''],
         'storage_permissions' => ['status' => false, 'message' => '', 'required' => true, 'fix' => ''],
         'bootstrap_permissions' => ['status' => false, 'message' => '', 'required' => true, 'fix' => '']
@@ -203,7 +203,7 @@ function checkSystemRequirements()
 
     // Check required PHP extensions
     // Required PHP extensions
-    $requiredExtensions = ['openssl', 'pdo', 'mbstring', 'tokenizer', 'xml', 'ctype', 'json', 'bcmath', 'curl', 'zip', 'sodium'];
+    $requiredExtensions = ['openssl', 'pdo', 'mbstring', 'tokenizer', 'xml', 'ctype', 'json', 'curl', 'zip', 'sodium'];
 
     // Required PHP functions
     $requiredFunctions = ['passthru', 'shell_exec', 'system', 'exec'];
