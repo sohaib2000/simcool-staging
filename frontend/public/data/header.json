@@ -1,0 +1,73 @@
+{
+    "topNavbar": {
+        "content": "Scaling Support on a Budget? Try whatsway for WhatsApp-First Solution",
+        "buttonText": "Read more"
+    },
+    "secondNavbar": {
+        "logo": "/images/simtel-main.png",
+        "navlinkes": [
+            {
+                "label": "What is an eSIM",
+                "href": "#features"
+            },
+            {
+                "label": "Download App",
+                "href": "#features"
+            },
+            {
+                "label": "Why Saily",
+                "submenu": [
+                    {
+                        "name": "Security Features",
+                        "href": "#"
+                    },
+                    {
+                        "name": "Coupons",
+                        "href": "#"
+                    },
+                    {
+                        "name": "Reviews",
+                        "href": "#"
+                    },
+                    {
+                        "name": "Refer a Friend",
+                        "href": "#"
+                    }
+                ]
+            },
+            {
+                "label": "Resources",
+                "submenu": [
+                    {
+                        "name": "Business",
+                        "href": "#"
+                    },
+                    {
+                        "name": "Supported Devices",
+                        "href": "#"
+                    },
+                    {
+                        "name": "Data Usage Calculator",
+                        "href": "#"
+                    },
+                    {
+                        "name": "About Us",
+                        "href": "#"
+                    },
+                    {
+                        "name": "Blog",
+                        "href": "#"
+                    }
+                ]
+            },
+            {
+                "label": "Ultra Plan",
+                "href": "#"
+            },
+            {
+                "label": "Help Center",
+                "href": "#contactus"
+            }
+        ]
+    }
+}

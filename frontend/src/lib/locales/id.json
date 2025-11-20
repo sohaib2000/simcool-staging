@@ -1,0 +1,615 @@
+{
+    "common": {
+        "title": "Selamat datang di Telmob eSIM",
+        "description": "Aplikasi eSIM multibahasa untuk koneksi global tanpa kartu SIM fisik",
+        "navigation": {
+            "home": "Beranda",
+            "about": "Tentang Kami",
+            "products": "Paket eSIM",
+            "contact": "Kontak"
+        },
+        "buttons": {
+            "learn_more": "Pelajari Lebih Lanjut",
+            "get_started": "Mulai Sekarang",
+            "contact_us": "Hubungi Kami",
+            "signIn": "Masuk"
+        }
+    },
+    "home": {
+        "nav": {
+            "whatIsEsim": "Apa itu eSIM",
+            "aboutUs": "Tentang Kami",
+            "downloadApp": "Unduh Aplikasi",
+            "appStore": "App Store",
+            "googlePlay": "Google Play Store",
+            "resources": "Sumber Daya",
+            "allDestinations": "Semua Destinasi",
+            "allPackages": "Semua Paket",
+            "allCountryPlan": "Semua Paket per Negara",
+            "supportedDevices": "Perangkat yang Didukung"
+        },
+        "hero": {
+            "byCreators": "Dari pembuat",
+            "brandAlt": "Logo Telmob eSIM",
+            "mainHeading": "Tetap Terhubung",
+            "mainSubHeading": "Secara global dengan solusi eSIM pintar",
+            "description": "Rasakan konektivitas internasional tanpa hambatan. Akses instan ke paket data lokal di 180+ negara tanpa ribet kartu SIM fisik.",
+            "chooseDestination": "Pilih destinasi untuk mulai",
+            "searchPlaceholder": "Cari destinasi",
+            "featureCountries": "+180 Negara",
+            "featureActivation": "Aktivasi instan",
+            "featureNoRoaming": "Tanpa biaya roaming",
+            "imageAlt": "Perempuan memegang ponsel dengan eSIM"
+        },
+        "whatIsEsim": {
+            "imageAlt": "Apa itu teknologi eSIM",
+            "sectionTag": "Teknologi dijelaskan",
+            "heading": "Apa itu eSIM?",
+            "description": "eSIM (embedded SIM) adalah SIM digital yang tertanam langsung di perangkatmu. Berbeda dengan SIM fisik tradisional, eSIM bisa diaktivasi jarak jauh dan memungkinkanmu ganti operator tanpa mengganti kartu.",
+            "keyBenefitsTitle": "Keunggulan utama:",
+            "benefit1Title": "Tanpa kartu fisik",
+            "benefit1Desc": "Semua serba digital: tidak ada lagi kartu SIM kecil yang hilang atau rusak",
+            "benefit2Title": "Aktivasi instan",
+            "benefit2Desc": "Terhubung dalam hitungan menit, bukan jam atau hari",
+            "benefit3Title": "Banyak paket",
+            "benefit3Desc": "Simpan banyak profil operator dan ganti dengan mudah"
+        },
+        "travelDestination": {
+            "globalEsim": "Solusi eSIM global",
+            "choosePlan": "Pilih paket yang pas",
+            "planDescription": "Dapatkan data seluler instan di seluruh dunia. Tanpa kartu SIM fisik, tanpa roaming — hanya koneksi mulus di mana pun kamu bepergian.",
+            "viewDestinations": "Lihat semua 180+ destinasi",
+            "byCountry": "Per negara",
+            "byRegion": "Per wilayah"
+        },
+        "popularPlan": {
+            "mostPopularEsims": "{count} eSIM terpopuler",
+            "popularEsims": "eSIM Populer",
+            "choosePackages": "Pilih dari total {total} paket dalam {pages} halaman",
+            "viewAllPackages": "Lihat semua paket",
+            "chooseThisPlan": "Pilih paket ini",
+            "viewPlanDetails": "Lihat detail paket"
+        },
+        "whyChoose": {
+            "whyChooseUs": "Kenapa pilih kami?",
+            "stayConnected": "Tetap terhubung saat bepergian",
+            "feature1Title": "Paket data fleksibel",
+            "feature1Desc": "Pilih paket sesuai anggaran & itinerary. Dari 1GB hingga unlimited, semua ada!",
+            "feature2Title": "Pengaturan mudah",
+            "feature2Desc": "Unduh aplikasi eSIM, pasang eSIM & beli paket – otomatis aktif saat kamu tiba.",
+            "feature3Title": "Tanpa biaya tersembunyi",
+            "feature3Desc": "Hindari roaming mahal – kamu tahu biayanya sebelum berangkat!",
+            "feature4Title": "Satu eSIM untuk banyak trip",
+            "feature4Desc": "Tambah destinasi baru ke eSIM yang sama; tidak perlu pasang eSIM baru setiap kali.",
+            "feature5Title": "Notifikasi pemakaian pintar",
+            "feature5Desc": "Kamu tidak akan kehabisan data di momen genting — kami beri tahu saat 80% terpakai.",
+            "feature6Title": "Cakupan seluruh dunia",
+            "feature6Desc": "Tetap online di mana pun kamu pergi: paket global atau regional tersedia."
+        },
+        "faq": {
+            "faqHeading": "Pertanyaan Umum",
+            "faqDescription": "Semua yang perlu kamu ketahui tentang setup, kompatibilitas, dan penggunaan eSIM."
+        },
+        "footer": {
+            "popularDestinations": "Destinasi Populer",
+            "popularCountryPlan": "Paket Populer per Negara",
+            "esim": "eSIM",
+            "whatIsEsim": "Apa itu eSIM",
+            "supportedDevices": "Perangkat Didukung",
+            "aboutUs": "Tentang Kami",
+            "allDestinations": "Semua Destinasi",
+            "allPackages": "Semua Paket",
+            "allCountryPlan": "Semua Paket per Negara",
+            "allRegionPlan": "Semua Paket per Wilayah",
+            "followUs": "Ikuti Kami",
+            "twitter": "Twitter (sekarang X)",
+            "facebook": "Facebook",
+            "linkedin": "LinkedIn",
+            "youtube": "YouTube",
+            "instagram": "Instagram",
+            "reddit": "Reddit",
+            "downloadOnThe": "Unduh di",
+            "appStore": "App Store",
+            "getItOn": "Tersedia di",
+            "googlePlay": "Google Play",
+            "copyright": "2025 eSIM Global. Hak Cipta Dilindungi.",
+            "privacyPolicy": "Kebijakan Privasi",
+            "termsOfService": "Syarat Layanan"
+        }
+    },
+    "whatIsEsim": {
+        "hero": {
+            "badge": {
+                "text": "Teknologi generasi berikutnya",
+                "icon": "Smartphone"
+            },
+            "title": "eSIM: Apa & bagaimana cara kerjanya?",
+            "description": "Kenali teknologi SIM digital yang mengubah cara kita terhubung. Tidak ada kartu fisik, tidak ada batasan operator — hanya koneksi global yang mulus.",
+            "stats": {
+                "countries": {
+                    "value": "+200",
+                    "label": "Negara"
+                },
+                "users": {
+                    "value": "+5Jt",
+                    "label": "Pengguna"
+                },
+                "uptime": {
+                    "value": "99.9%",
+                    "label": "Uptime"
+                }
+            }
+        },
+        "whatIsSection": {
+            "badge": {
+                "text": "Inovasi digital",
+                "icon": "Shield"
+            },
+            "title": "Apa itu eSIM?",
+            "description": "eSIM (embedded SIM) adalah kartu SIM digital yang tertanam langsung di perangkatmu. Tidak seperti SIM fisik, eSIM dapat diprogram & diaktifkan jarak jauh, memudahkan ganti operator dan kelola beberapa nomor sekaligus.",
+            "keyFeatures": {
+                "title": "Fitur utama:",
+                "feature1": "Tidak perlu kartu SIM fisik",
+                "feature2": "Aktivasi & provisioning jarak jauh",
+                "feature3": "Banyak profil operator di satu perangkat",
+                "feature4": "Keamanan lebih baik & tahan manipulasi"
+            },
+            "cta": {
+                "text": "Perangkat yang Didukung",
+                "link": "/esim-supported-devices"
+            },
+            "floatingCard": {
+                "title": "Setup instan",
+                "description": "Tanpa kartu fisik"
+            }
+        },
+        "howItWorks": {
+            "badge": {
+                "text": "Proses pintar",
+                "icon": "Zap"
+            },
+            "title": "Bagaimana eSIM bekerja?",
+            "description": "eSIM bekerja melalui proses provisioning yang aman & nirkabel. Alih-alih memasang kartu fisik, perangkatmu mengunduh dan memasang profil operator secara digital — cepat dan mulus.",
+            "processTitle": "Alurnya:",
+            "steps": {
+                "step1": {
+                    "number": "1",
+                    "title": "Beli paket eSIM",
+                    "description": "Pilih paket data dan selesaikan pembayaran lewat aplikasi kami"
+                },
+                "step2": {
+                    "number": "2",
+                    "title": "Pindai kode QR",
+                    "description": "Terima kode QR dan pindai dengan kamera perangkatmu"
+                },
+                "step3": {
+                    "number": "3",
+                    "title": "Konfigurasi otomatis",
+                    "description": "Perangkatmu mengunduh & memasang profil eSIM secara otomatis"
+                },
+                "step4": {
+                    "number": "4",
+                    "title": "Mulai pakai",
+                    "description": "Nikmati koneksi instan tanpa kartu SIM fisik"
+                }
+            },
+            "cta": {
+                "text": "Coba eSIM sekarang",
+                "icon": "Download",
+                "link": "/all-packages"
+            },
+            "statusIndicator": {
+                "text": "Aktif"
+            }
+        },
+        "callToAction": {
+            "title": "Siap mencoba teknologi eSIM?",
+            "description": "Bergabunglah dengan jutaan pengguna di seluruh dunia yang sudah beralih ke konektivitas digital",
+            "buttons": {
+                "downloadApp": {
+                    "text": "Unduh Aplikasi",
+                    "icon": "Download",
+                    "link": "https://play.google.com/store/apps/details?id=com.esim.app"
+                },
+                "viewPlans": {
+                    "text": "Lihat Paket",
+                    "icon": "ArrowRight",
+                    "link": "/all-packages"
+                }
+            }
+        }
+    },
+    "aboutUs": {
+        "hero": {
+            "badge": {
+                "text": "Kisah kami",
+                "icon": "Heart"
+            },
+            "title": "Tentang Telmob eSIM",
+            "description": "Menghubungkan traveler di seluruh dunia dengan solusi eSIM yang mulus & terjangkau."
+        },
+        "mission": {
+            "badge": {
+                "text": "Misi kami",
+                "icon": "Globe"
+            },
+            "title": "Merevolusi konektivitas global",
+            "description": "Kami menyediakan solusi eSIM instan dan mulus yang membuatmu tetap terhubung ke mana pun perjalananmu. Tidak ada lagi biaya roaming mahal atau repot beli kartu lokal.",
+            "keyPoints": {
+                "point1": "Aktivasi instan dalam 60 detik",
+                "point2": "Cakupan di 180+ negara",
+                "point3": "Harga transparan"
+            },
+            "cta": {
+                "text": "Jelajahi paket",
+                "icon": "ArrowRight",
+                "link": "/all-destinations"
+            },
+            "floatingBadge": {
+                "value": "+180",
+                "label": "Negara"
+            }
+        },
+        "team": {
+            "badge": {
+                "text": "Tim kami",
+                "icon": "Users"
+            },
+            "title": "Dibangun oleh traveler, untuk traveler",
+            "description": "Tim engineer & expert perjalanan kami bekerja tanpa lelah untuk memastikan pengalaman konektivitasmu mulus. Solusi kami diuji di skenario nyata di seluruh dunia.",
+            "stats": {
+                "users": {
+                    "value": "+1Jt",
+                    "label": "Pengguna bahagia"
+                },
+                "support": {
+                    "value": "24/7",
+                    "label": "Dukungan"
+                }
+            },
+            "values": {
+                "value1": "Keamanan sebagai prioritas",
+                "value2": "Obsesi pada pelanggan"
+            },
+            "floatingRating": {
+                "stars": 5,
+                "rating": "4.9"
+            }
+        },
+        "technology": {
+            "badge": {
+                "text": "Inovasi",
+                "icon": "Zap"
+            },
+            "title": "Masa depan konektivitas perjalanan",
+            "description": "Platform eSIM kami memanfaatkan AI untuk menghubungkanmu ke jaringan terbaik yang tersedia secara otomatis. Optimalisasi real-time memastikan koneksi paling cepat dan andal.",
+            "techFeatures": {
+                "feature1": "Pemilihan jaringan berbasis AI",
+                "feature2": "Roaming cerdas",
+                "feature3": "Keamanan setara militer"
+            },
+            "performanceStats": {
+                "uptime": {
+                    "value": "99.9%",
+                    "label": "Uptime"
+                },
+                "activation": {
+                    "value": "< 30d",
+                    "label": "Aktivasi"
+                }
+            },
+            "cta": {
+                "text": "Jelajahi paket",
+                "icon": "ArrowRight",
+                "link": "/all-destinations"
+            },
+            "floatingBadge": {
+                "value": "5G",
+                "label": "Siap"
+            }
+        },
+        "cta": {
+            "title": "Siap merasakan konektivitas global?",
+            "description": "Bergabunglah dengan jutaan traveler yang mempercayai Telmob eSIM untuk koneksi yang mulus di seluruh dunia.",
+            "button": {
+                "text": "Jelajahi Paket",
+                "icon": "Globe2",
+                "link": "/all-packages"
+            }
+        }
+    },
+    "profile": {
+        "header": {
+            "defaultAlt": "Pengguna",
+            "joined": "Bergabung"
+        },
+        "sidebar": {
+            "title": "Pengaturan Akun",
+            "navigation": {
+                "accountInfo": "Informasi Akun",
+                "accountInfoDesc": "Kelola data pribadimu",
+                "esimDetails": "Detail eSIM-ku",
+                "esimDetailsDesc": "Kelola profil eSIM",
+                "orderHistory": "Riwayat Pesanan",
+                "orderHistoryDesc": "Lihat riwayat pembelianmu",
+                "privacyPolicy": "Kebijakan Privasi",
+                "privacyPolicyDesc": "Baca kebijakan privasi kami",
+                "termsConditions": "Syarat & Ketentuan",
+                "termsConditionsDesc": "Lihat syarat layanan",
+                "faq": "FAQ",
+                "faqDesc": "Pertanyaan yang sering diajukan",
+                "customerSupport": "Layanan Pelanggan",
+                "customerSupportDesc": "Dapatkan bantuan & dukungan"
+            }
+        },
+        "pages": {
+            "accountInfo": {
+                "profileInfo": {
+                    "title": "Informasi Profil",
+                    "profile": {
+                        "imageAlt": "Foto Profil",
+                        "changePhoto": "Ganti Foto",
+                        "defaultName": "Nama Pengguna",
+                        "memberSince": "Anggota sejak {date}",
+                        "memberSinceDefault": "Anggota sejak Maret 2024",
+                        "imageSelected": "Gambar baru dipilih — klik simpan untuk memperbarui"
+                    },
+                    "form": {
+                        "fullName": "Nama Lengkap",
+                        "namePlaceholder": "Masukkan nama lengkap",
+                        "email": "Alamat Email",
+                        "country": "Negara",
+                        "currency": "Mata Uang",
+                        "selectCurrency": "Pilih mata uang",
+                        "verified": "Terverifikasi",
+                        "updateButton": "Perbarui Profil",
+                        "updating": "Memperbarui..."
+                    },
+                    "kyc": {
+                        "title": "Status KYC",
+                        "label": "Kenali Pelangganmu (KYC)",
+                        "description": "Status verifikasi identitas",
+                        "status": {
+                            "approved": "Disetujui",
+                            "rejected": "Ditolak",
+                            "pending": "Menunggu",
+                            "notApplied": "Belum Diajukan"
+                        }
+                    },
+                    "messages": {
+                        "updateSuccess": "Profil berhasil diperbarui",
+                        "updateError": "Gagal memperbarui profil",
+                        "nameRequired": "Nama lengkap wajib diisi",
+                        "currencyRequired": "Silakan pilih mata uang",
+                        "imageTooLarge": "Ukuran gambar harus < 5MB",
+                        "invalidImageFormat": "Pilih format gambar yang valid (JPEG, JPG, PNG, WebP)"
+                    }
+                },
+                "packageCard": {
+                    "title": "Detail Paket",
+                    "topUp": {
+                        "button": "Isi Ulang"
+                    },
+                    "location": {
+                        "flagAlt": "Bendera {country}"
+                    },
+                    "usage": {
+                        "internet": "Internet",
+                        "unlimited": "Unlimited",
+                        "dataRemaining": "{remaining} / {total} GB",
+                        "progressLabel": "{percent}% data terpakai",
+                        "smsLeft": "{count} SMS tersisa",
+                        "smsNotAvailable": "SMS Tidak Tersedia",
+                        "callMinsLeft": "{mins} menit telepon tersisa",
+                        "callNotAvailable": "Telepon Tidak Tersedia"
+                    },
+                    "expiry": {
+                        "text": "Berakhir pada {date}"
+                    },
+                    "noPackage": {
+                        "title": "Tidak Ada Paket Aktif",
+                        "description": "Kamu belum memiliki paket eSIM aktif"
+                    }
+                },
+                "kycVerification": {
+                    "title": "Lengkapi Verifikasi KYC",
+                    "card": {
+                        "title": "Verifikasi Identitas",
+                        "description": "Selesaikan KYC untuk membuka semua fitur dan meningkatkan limit transaksi."
+                    },
+                    "documents": {
+                        "title": "Dokumen yang Dibutuhkan:",
+                        "photoId": "Identitas berfoto (Paspor, SIM, KTP)",
+                        "proofAddress": "Bukti Alamat (Tagihan Utilitas, Rekening Koran)",
+                        "recentPhoto": "Foto terbaru (selfie)"
+                    },
+                    "benefits": {
+                        "title": "Keuntungan setelah KYC:",
+                        "higherLimits": "Limit transaksi lebih tinggi",
+                        "premiumPlans": "Akses ke paket premium",
+                        "prioritySupport": "Dukungan prioritas",
+                        "enhancedSecurity": "Keamanan akun yang ditingkatkan"
+                    },
+                    "startProcess": "Mulai Proses KYC",
+                    "modal": {
+                        "title": "Unggah Dokumen KYC"
+                    },
+                    "form": {
+                        "fullName": "Nama Lengkap",
+                        "dob": "Tanggal Lahir",
+                        "address": "Alamat",
+                        "identityCardNo": "Nomor Identitas",
+                        "identityCard": "Kartu Identitas",
+                        "panCard": "Kartu NPWP",
+                        "recentPhoto": "Foto Terbaru",
+                        "placeholders": {
+                            "fullName": "Masukkan nama lengkap sesuai identitas",
+                            "address": "Masukkan alamat lengkap",
+                            "identityCardNo": "Masukkan nomor ID (KTP/Paspor/SIM)"
+                        },
+                        "fileFormats": "Format diterima: JPG, PNG, PDF (Maks 5MB)",
+                        "imageFormats": "Format diterima: JPG, PNG (Maks 5MB)",
+                        "validation": {
+                            "fullNameRequired": "Nama lengkap wajib diisi",
+                            "dobRequired": "Tanggal lahir wajib diisi",
+                            "addressRequired": "Alamat wajib diisi",
+                            "identityCardNoRequired": "Nomor identitas wajib diisi",
+                            "identityCardRequired": "Dokumen identitas wajib diunggah",
+                            "panCardRequired": "Dokumen NPWP wajib diunggah",
+                            "photoRequired": "Foto terbaru wajib diunggah"
+                        },
+                        "cancel": "Batal",
+                        "submit": "Kirim KYC",
+                        "submitting": "Mengirim..."
+                    }
+                },
+                "deleteAccount": {
+                    "dangerZone": "Zona Berbahaya",
+                    "title": "Hapus Akun",
+                    "description": "Kamu dapat menghapus akun secara permanen. Proses ini membutuhkan waktu dan tidak dapat dibatalkan setelah selesai.",
+                    "confirmText": "HAPUS AKUN SAYA",
+                    "consequences": {
+                        "title": "Yang terjadi saat kamu menghapus akun:",
+                        "personalData": "Semua data pribadimu dihapus permanen",
+                        "esimPlans": "Paket eSIM aktif akan dinonaktifkan",
+                        "orderHistory": "Riwayat pesanan & transaksi akan dihapus",
+                        "membershipBenefits": "Kamu kehilangan semua benefit keanggotaan",
+                        "irreversible": "Tindakan ini tidak dapat dibatalkan"
+                    },
+                    "button": {
+                        "delete": "HAPUS AKUN",
+                        "deleting": "MENGHAPUS..."
+                    },
+                    "modal": {
+                        "title": "Kamu benar-benar yakin?",
+                        "description": "Tindakan ini tidak dapat dibatalkan. Menghapus akun akan menghapus seluruh data dari server kami.",
+                        "youWillLose": "Kamu akan kehilangan:",
+                        "loss": {
+                            "esimPlans": "Semua paket eSIM aktif",
+                            "balance": "Saldo & reward akun",
+                            "orderHistory": "Riwayat pesanan",
+                            "membership": "Keanggotaan & benefitnya"
+                        },
+                        "typeToConfirm": "Ketik \"{text}\" di bawah untuk konfirmasi:",
+                        "placeholder": "Ketik: {text}",
+                        "textMismatch": "Teks tidak cocok. Ketik persis: \"{text}\"",
+                        "textMatches": "✓ Teks konfirmasi cocok",
+                        "cancel": "Batal",
+                        "confirm": "Ya, hapus akun saya",
+                        "deleting": "Menghapus..."
+                    },
+                    "messages": {
+                        "success": "Penghapusan akun berhasil dimulai",
+                        "error": "Gagal menghapus akun. Coba lagi.",
+                        "confirmTextMismatch": "Ketik \"{text}\" persis untuk konfirmasi penghapusan."
+                    }
+                }
+            },
+            "orderHistory": {
+                "title": "Riwayat Pesanan",
+                "subtitle": "Lacak semua pembelian & langganan eSIM-mu",
+                "loading": "Memuat pesanan...",
+                "summary": "Menampilkan {showing} dari {total} pesanan",
+                "fields": {
+                    "orderRef": "Ref. Pesanan",
+                    "status": "Status Pesanan",
+                    "amount": "Jumlah",
+                    "orderedOn": "Dipesan pada",
+                    "notAvailable": "N/A"
+                },
+                "status": {
+                    "delivered": "Terkirim",
+                    "shipped": "Dikirim",
+                    "processing": "Diproses",
+                    "cancelled": "Dibatalkan",
+                    "completed": "Selesai",
+                    "pending": "Menunggu"
+                },
+                "currency": {
+                    "format": "Rp{amount}"
+                },
+                "actions": {
+                    "viewDetails": "Lihat Detail",
+                    "downloadInvoice": "Unduh Faktur",
+                    "trackOrder": "Lacak Pesanan",
+                    "contactSupport": "Hubungi Dukungan"
+                },
+                "empty": {
+                    "title": "Belum ada pesanan",
+                    "description": "Kamu belum melakukan pesanan. Mulai jelajahi paket kami!",
+                    "browsePlans": "Jelajahi Paket"
+                },
+                "pagination": {
+                    "previous": "Sebelumnya",
+                    "next": "Berikutnya",
+                    "pageInfo": "Halaman {current} dari {total}"
+                },
+                "filters": {
+                    "all": "Semua Pesanan",
+                    "completed": "Selesai",
+                    "pending": "Menunggu",
+                    "cancelled": "Dibatalkan"
+                }
+            },
+            "esimDetails": {
+                "title": "eSIM-ku",
+                "subtitle": "Kelola profil eSIM aktif & paket data",
+                "loading": "Memuat detail eSIM...",
+                "instructionsModal": {
+                    "title": "Instruksi Instalasi"
+                },
+                "fields": {
+                    "iccid": "ICCID:",
+                    "matchingId": "Matching ID:",
+                    "status": "Status:",
+                    "activatedAt": "Diaktifkan Pada:",
+                    "expiredAt": "Berakhir Pada:",
+                    "activatedOn": "Tanggal Aktivasi:",
+                    "expiryOn": "Tanggal Berakhir:",
+                    "validity": "Masa Berlaku:",
+                    "price": "Harga:",
+                    "package": "Paket:",
+                    "data": "Data:",
+                    "apnIos": "APN (iOS):",
+                    "apnAndroid": "APN (Android):"
+                },
+                "status": {
+                    "active": "AKTIF",
+                    "expired": "KADALUARSA",
+                    "inactive": "TIDAK AKTIF"
+                },
+                "timeLeft": {
+                    "expired": "Kadaluwarsa",
+                    "left": "Sisa {time}",
+                    "days": "{count} hari",
+                    "days_plural": "{count} hari",
+                    "hours": "{count} jam",
+                    "hours_plural": "{count} jam",
+                    "minutes": "{count} mnt"
+                },
+                "actions": {
+                    "topup": "Isi Ulang",
+                    "view": "Lihat",
+                    "installOnIos": "Instal di iOS",
+                    "installOnAndroid": "Instal di Android",
+                    "instructions": "Instruksi"
+                },
+                "modal": {
+                    "title": "Detail eSIM",
+                    "orderInfo": "Info Pesanan",
+                    "installationGuide": "Panduan Instalasi"
+                },
+                "empty": {
+                    "title": "Data eSIM tidak ditemukan",
+                    "description": "Kamu belum memiliki data eSIM."
+                },
+                "currency": {
+                    "format": "Rp{price}"
+                },
+                "validity": {
+                    "format": "{days} Hari"
+                }
+            }
+        }
+    }
+}
