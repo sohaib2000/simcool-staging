@@ -40,4 +40,4 @@ jobs:
           echo "Restarting PM2 app (next-app)..."
           pm2 restart next-app || pm2 start npm --name "next-app" -- start
 
-          echo "Deployment complete!"
+          echo "Deployment completed!"
