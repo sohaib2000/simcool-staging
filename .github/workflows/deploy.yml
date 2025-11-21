@@ -1,0 +1,43 @@
+name: Auto Deploy to DigitalOcean
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Deploy over SSH to Droplet
+      uses: appleboy/ssh-action@v1.0.0
+      with:
+        host: ${{ secrets.DO_SSH_HOST }}
+        username: ${{ secrets.DO_SSH_USER }}
+        key: ${{ secrets.DO_SSH_KEY }}
+        script: |
+          cd /var/www/simcool
+
+          echo "Pulling latest code..."
+          git pull origin main
+
+          echo "Installing Laravel dependencies..."
+          composer install --no-interaction --prefer-dist --optimize-autoloader
+
+          echo "Running Laravel optimizations..."
+          php artisan migrate --force || true
+          php artisan optimize
+
+          echo "Building Next.js frontend..."
+          cd frontend
+          npm install --force
+          npm run build
+
+          echo "Restarting PM2 app (next-app)..."
+          pm2 restart next-app || pm2 start npm --name "next-app" -- start
+
+          echo "Deployment complete!"
