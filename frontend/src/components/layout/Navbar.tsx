@@ -105,16 +105,16 @@ const Navbar = () => {
                     label: 'home.nav.aboutUs', // t('nav.aboutUs')
                     href: '/about-us'
                 },
-                {
-                    label: 'home.nav.downloadApp', // t('nav.downloadApp')
-                    submenu: [
-                        { name: 'home.nav.appStore', href: 'https://www.apple.com/in/app-store/' },
-                        {
-                            name: 'home.nav.googlePlay',
-                            href: 'https://play.google.com/store/apps/details?id=com.esimtel.app&hl=en_IN'
-                        }
-                    ]
-                },
+                // {
+                //     label: 'home.nav.downloadApp', // t('nav.downloadApp')
+                //     submenu: [
+                //         { name: 'home.nav.appStore', href: 'https://www.apple.com/in/app-store/' },
+                //         {
+                //             name: 'home.nav.googlePlay',
+                //             href: 'https://play.google.com/store/apps/details?id=com.esimtel.app&hl=en_IN'
+                //         }
+                //     ]
+                // },
                 {
                     label: 'home.nav.resources', // t('nav.resources')
                     submenu: [
