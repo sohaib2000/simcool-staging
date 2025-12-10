@@ -1,0 +1,615 @@
+{
+    "common": {
+        "title": "欢迎使用我们的应用程序",
+        "description": "这是一个多语言的Next.js应用程序",
+        "navigation": {
+            "home": "首页",
+            "about": "关于我们",
+            "products": "产品",
+            "contact": "联系我们"
+        },
+        "buttons": {
+            "learn_more": "了解更多",
+            "get_started": "开始使用",
+            "contact_us": "联系我们",
+            "signIn": "登录"
+        }
+    },
+    "home": {
+        "nav": {
+            "whatIsEsim": "什么是eSIM",
+            "aboutUs": "关于我们",
+            "downloadApp": "下载应用",
+            "appStore": "应用商店",
+            "googlePlay": "谷歌应用商店",
+            "resources": "资源",
+            "allDestinations": "所有目的地",
+            "allPackages": "所有套餐",
+            "allCountryPlan": "所有国家套餐",
+            "supportedDevices": "支持的设备"
+        },
+        "hero": {
+            "byCreators": "由以下品牌出品",
+            "brandAlt": "品牌标志",
+            "mainHeading": "保持连接",
+            "mainSubHeading": "通过智能 eSIM 解决方案实现全球连接",
+            "description": "体验无缝的国际连接。无需实体SIM卡的麻烦，即可在180多个国家/地区即时访问本地数据计划。",
+            "chooseDestination": "选择您的目的地以开始",
+            "searchPlaceholder": "搜索目的地",
+            "featureCountries": "180+ 国家",
+            "featureActivation": "即时激活",
+            "featureNoRoaming": "无漫游费",
+            "imageAlt": "一位女士手持eSIM手机"
+        },
+        "whatIsEsim": {
+            "imageAlt": "什么是eSIM技术",
+            "sectionTag": "技术解读",
+            "heading": "什么是eSIM？",
+            "description": "eSIM（嵌入式SIM卡）是一种直接内置于您设备中的数字SIM卡。与传统的实体SIM卡不同，eSIM可以远程激活，让您无需物理更换卡即可在不同运营商之间切换。",
+            "keyBenefitsTitle": "主要优点：",
+            "benefit1Title": "无需实体卡",
+            "benefit1Desc": "一切都是数字化的 - 不再丢失或损坏微小的SIM卡",
+            "benefit2Title": "即时激活",
+            "benefit2Desc": "在几分钟内即可连接，而不是几个小时或几天",
+            "benefit3Title": "多种套餐",
+            "benefit3Desc": "存储多个运营商配置文件并轻松切换"
+        },
+        "travelDestination": {
+            "globalEsim": "全球eSIM解决方案",
+            "choosePlan": "选择您的完美套餐",
+            "planDescription": "在全球范围内即时获取移动数据。无需实体SIM卡，无漫游费，无论您身在何处，都能享受无缝连接。",
+            "viewDestinations": "查看所有180+目的地",
+            "byCountry": "按国家",
+            "byRegion": "按地区"
+        },
+        "popularPlan": {
+            "mostPopularEsims": "最热门的{count}个eSIM",
+            "popularEsims": "热门eSIM",
+            "choosePackages": "在{pages}页中选择{total}个套餐",
+            "viewAllPackages": "查看所有套餐",
+            "chooseThisPlan": "选择此套餐",
+            "viewPlanDetails": "查看套餐详情"
+        },
+        "whyChoose": {
+            "whyChooseUs": "为什么选择我们？",
+            "stayConnected": "旅行时保持连接",
+            "feature1Title": "灵活的数据计划",
+            "feature1Desc": "获取适合您预算和行程的蜂窝数据。从1 GB到无限流量计划，我们都能满足您的需求！",
+            "feature2Title": "简单设置",
+            "feature2Desc": "只需下载我们的eSIM应用，安装eSIM，然后购买eSIM数据计划——当您到达目的地时，它会自动激活。",
+            "feature3Title": "无隐藏费用",
+            "feature3Desc": "如果您想避免昂贵的漫游费，eSIM技术是一个很好的选择。在出发前就知道您的互联网连接将花费多少！",
+            "feature4Title": "一个eSIM用于多次旅行",
+            "feature4Desc": "将新目的地添加到您现有的eSIM中——无需每次都安装新的eSIM。只需充值并连接！",
+            "feature5Title": "智能使用提醒",
+            "feature5Desc": "不要冒险在最糟糕的时刻用完eSIM数据——当您使用了80%的计划时，我们会通知您。",
+            "feature6Title": "全球覆盖",
+            "feature6Desc": "无论您走到哪里都保持在线——获取全球eSIM数据计划或区域计划，探索整个地区及更远的地方。"
+        },
+        "faq": {
+            "faqHeading": "常见问题",
+            "faqDescription": "关于eSIM设置、兼容性和使用所需了解的一切。"
+        },
+        "footer": {
+            "popularDestinations": "热门目的地",
+            "popularCountryPlan": "热门国家套餐",
+            "esim": "eSIM",
+            "whatIsEsim": "什么是eSIM",
+            "supportedDevices": "支持的设备",
+            "aboutUs": "关于我们",
+            "allDestinations": "所有目的地",
+            "allPackages": "所有套餐",
+            "allCountryPlan": "所有国家套餐",
+            "allRegionPlan": "所有区域套餐",
+            "followUs": "关注我们",
+            "twitter": "Twitter (现称X)",
+            "facebook": "Facebook",
+            "linkedin": "LinkedIn",
+            "youtube": "YouTube",
+            "instagram": "Instagram",
+            "reddit": "Reddit",
+            "downloadOnThe": "下载于",
+            "appStore": "App Store",
+            "getItOn": "在以下平台获取",
+            "googlePlay": "Google Play",
+            "copyright": "2025 eSIM Global。保留所有权利。",
+            "privacyPolicy": "隐私政策",
+            "termsOfService": "服务条款"
+        }
+    },
+    "whatIsEsim": {
+        "hero": {
+            "badge": {
+                "text": "下一代技术",
+                "icon": "Smartphone"
+            },
+            "title": "eSIM：它是什么，以及它如何工作？",
+            "description": "探索正在改变我们连接方式的革命性数字SIM技术。不再有实体SIM卡，不再有运营商限制——只有无缝的全球连接。",
+            "stats": {
+                "countries": {
+                    "value": "200+",
+                    "label": "国家"
+                },
+                "users": {
+                    "value": "500万+",
+                    "label": "用户"
+                },
+                "uptime": {
+                    "value": "99.9%",
+                    "label": "正常运行时间"
+                }
+            }
+        },
+        "whatIsSection": {
+            "badge": {
+                "text": "数字创新",
+                "icon": "Shield"
+            },
+            "title": "什么是eSIM？",
+            "description": "eSIM（嵌入式SIM卡）是一种直接内置于您设备中的数字SIM卡。与传统的实体SIM卡不同，eSIM是可编程的，可以远程激活，从而更轻松地切换运营商并管理多个电话号码。",
+            "keyFeatures": {
+                "title": "关键功能：",
+                "feature1": "无需实体SIM卡",
+                "feature2": "远程激活和配置",
+                "feature3": "一台设备上可有多个运营商配置文件",
+                "feature4": "增强的安全性和防篡改性"
+            },
+            "cta": {
+                "text": "支持的设备",
+                "link": "/esim-supported-devices"
+            },
+            "floatingCard": {
+                "title": "即时设置",
+                "description": "无需实体SIM卡"
+            }
+        },
+        "howItWorks": {
+            "badge": {
+                "text": "智能流程",
+                "icon": "Zap"
+            },
+            "title": "eSIM如何工作？",
+            "description": "eSIM技术通过安全的空中配置过程工作。您的设备不是插入实体卡，而是以数字方式下载并安装运营商配置文件，使整个过程无缝且即时。",
+            "processTitle": "工作原理：",
+            "steps": {
+                "step1": {
+                    "number": "1",
+                    "title": "购买eSIM计划",
+                    "description": "通过我们的应用选择您的数据计划并完成购买"
+                },
+                "step2": {
+                    "number": "2",
+                    "title": "扫描二维码",
+                    "description": "接收一个二维码并使用您设备的摄像头扫描它"
+                },
+                "step3": {
+                    "number": "3",
+                    "title": "自动设置",
+                    "description": "您的设备会自动下载并安装eSIM配置文件"
+                },
+                "step4": {
+                    "number": "4",
+                    "title": "开始使用",
+                    "description": "无需任何实体SIM卡即可享受即时连接"
+                }
+            },
+            "cta": {
+                "text": "立即试用eSIM",
+                "icon": "Download",
+                "link": "/all-packages"
+            },
+            "statusIndicator": {
+                "text": "活跃"
+            }
+        },
+        "callToAction": {
+            "title": "准备好体验eSIM技术了吗？",
+            "description": "加入全球数百万已转向数字连接的用户行列",
+            "buttons": {
+                "downloadApp": {
+                    "text": "下载应用",
+                    "icon": "Download",
+                    "link": "https://play.google.com/store/apps/details?id=com.esim.app"
+                },
+                "viewPlans": {
+                    "text": "查看计划",
+                    "icon": "ArrowRight",
+                    "link": "/all-packages"
+                }
+            }
+        }
+    },
+    "aboutUs": {
+        "hero": {
+            "badge": {
+                "text": "我们的故事",
+                "icon": "Heart"
+            },
+            "title": "关于eSIM Tell",
+            "description": "通过无缝、实惠的eSIM解决方案连接世界各地的旅行者。"
+        },
+        "mission": {
+            "badge": {
+                "text": "我们的使命",
+                "icon": "Globe"
+            },
+            "title": "彻底改变全球连接",
+            "description": "我们提供无缝、即时的eSIM解决方案，让您无论旅程到哪里都能保持连接。不再有昂贵的漫游费或本地SIM卡的麻烦。",
+            "keyPoints": {
+                "point1": "60秒内即时激活",
+                "point2": "覆盖180+个国家",
+                "point3": "透明定价"
+            },
+            "cta": {
+                "text": "探索计划",
+                "icon": "ArrowRight",
+                "link": "/all-destinations"
+            },
+            "floatingBadge": {
+                "value": "180+",
+                "label": "国家"
+            }
+        },
+        "team": {
+            "badge": {
+                "text": "我们的团队",
+                "icon": "Users"
+            },
+            "title": "由旅行者构建，为旅行者服务",
+            "description": "我们的工程师和旅行专家团队孜孜不倦地工作，以确保您的连接体验完美无缺。我们已经在全球真实场景中测试了我们的解决方案。",
+            "stats": {
+                "users": {
+                    "value": "100万+",
+                    "label": "快乐用户"
+                },
+                "support": {
+                    "value": "24/7",
+                    "label": "支持"
+                }
+            },
+            "values": {
+                "value1": "安全第一的方法",
+                "value2": "以客户为中心"
+            },
+            "floatingRating": {
+                "stars": 5,
+                "rating": "4.9"
+            }
+        },
+        "technology": {
+            "badge": {
+                "text": "创新",
+                "icon": "Zap"
+            },
+            "title": "旅行连接的未来",
+            "description": "我们尖端的eSIM平台使用AI自动将您连接到全球最佳可用网络。实时优化确保了最快、最可靠的连接。",
+            "techFeatures": {
+                "feature1": "AI网络选择",
+                "feature2": "智能漫游技术",
+                "feature3": "军事级安全"
+            },
+            "performanceStats": {
+                "uptime": {
+                    "value": "99.9%",
+                    "label": "正常运行时间"
+                },
+                "activation": {
+                    "value": "< 30s",
+                    "label": "激活"
+                }
+            },
+            "cta": {
+                "text": "探索套餐",
+                "icon": "ArrowRight",
+                "link": "/all-destinations"
+            },
+            "floatingBadge": {
+                "value": "5G",
+                "label": "就绪"
+            }
+        },
+        "cta": {
+            "title": "准备好体验全球连接了吗？",
+            "description": "加入数百万信赖eSIM Tell以实现全球无缝连接的旅行者行列。",
+            "button": {
+                "text": "浏览计划",
+                "icon": "Globe2",
+                "link": "/all-packages"
+            }
+        }
+    },
+    "profile": {
+        "header": {
+            "defaultAlt": "用户",
+            "joined": "加入"
+        },
+        "sidebar": {
+            "title": "账户设置",
+            "navigation": {
+                "accountInfo": "账户信息",
+                "accountInfoDesc": "管理您的个人详情",
+                "esimDetails": "我的E-SIM详情",
+                "esimDetailsDesc": "管理您的eSIM配置文件",
+                "orderHistory": "订单历史",
+                "orderHistoryDesc": "查看您的购买历史",
+                "privacyPolicy": "隐私政策",
+                "privacyPolicyDesc": "阅读我们的隐私条款",
+                "termsConditions": "条款和条件",
+                "termsConditionsDesc": "查看服务条款",
+                "faq": "常见问题",
+                "faqDesc": "常见问题解答",
+                "customerSupport": "客户支持",
+                "customerSupportDesc": "获取帮助和支持"
+            }
+        },
+        "pages": {
+            "accountInfo": {
+                "profileInfo": {
+                    "title": "个人资料信息",
+                    "profile": {
+                        "imageAlt": "头像",
+                        "changePhoto": "更换照片",
+                        "defaultName": "用户名",
+                        "memberSince": "会员自{date}",
+                        "memberSinceDefault": "2024年3月起成为会员",
+                        "imageSelected": "已选择新图片 - 点击保存以更新"
+                    },
+                    "form": {
+                        "fullName": "全名",
+                        "namePlaceholder": "输入您的全名",
+                        "email": "电子邮箱地址",
+                        "country": "国家",
+                        "currency": "货币",
+                        "selectCurrency": "选择货币",
+                        "verified": "已验证",
+                        "updateButton": "更新个人资料",
+                        "updating": "更新中..."
+                    },
+                    "kyc": {
+                        "title": "KYC状态",
+                        "label": "了解您的客户(KYC)",
+                        "description": "身份验证状态",
+                        "status": {
+                            "approved": "已批准",
+                            "rejected": "已拒绝",
+                            "pending": "待审核",
+                            "notApplied": "未申请"
+                        }
+                    },
+                    "messages": {
+                        "updateSuccess": "个人资料更新成功",
+                        "updateError": "个人资料更新失败",
+                        "nameRequired": "请输入您的全名",
+                        "currencyRequired": "请选择货币",
+                        "imageTooLarge": "图片大小必须小于5MB",
+                        "invalidImageFormat": "请选择有效的图片格式(JPEG、JPG、PNG、WebP)"
+                    }
+                },
+                "packageCard": {
+                    "title": "套餐详情",
+                    "topUp": {
+                        "button": "充值"
+                    },
+                    "location": {
+                        "flagAlt": "{country}国旗"
+                    },
+                    "usage": {
+                        "internet": "互联网",
+                        "unlimited": "无限制",
+                        "dataRemaining": "{remaining} / {total} GB",
+                        "progressLabel": "已使用{percent}%数据",
+                        "smsLeft": "剩余{count}条短信",
+                        "smsNotAvailable": "短信不可用",
+                        "callMinsLeft": "剩余{mins}分钟通话",
+                        "callNotAvailable": "通话不可用"
+                    },
+                    "expiry": {
+                        "text": "到期时间{date}"
+                    },
+                    "noPackage": {
+                        "title": "无活跃套餐",
+                        "description": "您没有任何活跃的eSIM套餐"
+                    }
+                },
+                "kycVerification": {
+                    "title": "完成您的KYC验证",
+                    "card": {
+                        "title": "验证您的身份",
+                        "description": "完成KYC验证以解锁所有功能并提高您的交易限额。"
+                    },
+                    "documents": {
+                        "title": "所需文件:",
+                        "photoId": "政府颁发的带照片身份证件(护照、驾驶证、身份证)",
+                        "proofAddress": "地址证明(水电费账单、银行对账单)",
+                        "recentPhoto": "近期照片(自拍)"
+                    },
+                    "benefits": {
+                        "title": "KYC后的好处:",
+                        "higherLimits": "更高的交易限额",
+                        "premiumPlans": "访问高级计划",
+                        "prioritySupport": "优先客户支持",
+                        "enhancedSecurity": "增强账户安全性"
+                    },
+                    "startProcess": "开始KYC流程",
+                    "modal": {
+                        "title": "提交KYC文件"
+                    },
+                    "form": {
+                        "fullName": "全名",
+                        "dob": "出生日期",
+                        "address": "地址",
+                        "identityCardNo": "身份证号码",
+                        "identityCard": "身份证",
+                        "panCard": "PAN卡",
+                        "recentPhoto": "近期照片",
+                        "placeholders": {
+                            "fullName": "输入您证件上的全名",
+                            "address": "输入您的完整地址",
+                            "identityCardNo": "输入身份证号码(身份证/护照/驾驶证)"
+                        },
+                        "fileFormats": "接受的格式: JPG、PNG、PDF(最大5MB)",
+                        "imageFormats": "接受的格式: JPG、PNG(最大5MB)",
+                        "validation": {
+                            "fullNameRequired": "全名为必填项",
+                            "dobRequired": "出生日期为必填项",
+                            "addressRequired": "地址为必填项",
+                            "identityCardNoRequired": "身份证号码为必填项",
+                            "identityCardRequired": "身份证文件为必填项",
+                            "panCardRequired": "PAN卡文件为必填项",
+                            "photoRequired": "近期照片为必填项"
+                        },
+                        "cancel": "取消",
+                        "submit": "提交KYC",
+                        "submitting": "提交中..."
+                    }
+                },
+                "deleteAccount": {
+                    "dangerZone": "危险区域",
+                    "title": "删除账户",
+                    "description": "您可以永久删除您的账户。请注意，此过程可能需要一段时间，完成后无法撤销。",
+                    "confirmText": "删除我的账户",
+                    "consequences": {
+                        "title": "删除账户时会发生什么:",
+                        "personalData": "您的所有个人数据将被永久删除",
+                        "esimPlans": "活跃的eSIM计划将被停用",
+                        "orderHistory": "订单历史和交易记录将被删除",
+                        "membershipBenefits": "您将失去所有会员权益",
+                        "irreversible": "此操作无法撤销"
+                    },
+                    "button": {
+                        "delete": "删除账户",
+                        "deleting": "删除中..."
+                    },
+                    "modal": {
+                        "title": "您确定吗?",
+                        "description": "此操作无法撤销。这将永久删除您的账户并从我们的服务器中删除所有数据。",
+                        "youWillLose": "您将失去:",
+                        "loss": {
+                            "esimPlans": "所有活跃的eSIM计划",
+                            "balance": "账户余额和奖励",
+                            "orderHistory": "订单历史",
+                            "membership": "会员权益"
+                        },
+                        "typeToConfirm": "在下方输入\"{text}\"以确认:",
+                        "placeholder": "输入: {text}",
+                        "textMismatch": "文本不匹配。请准确输入: \"{text}\"",
+                        "textMatches": "✓ 确认文本匹配",
+                        "cancel": "取消",
+                        "confirm": "是的，删除我的账户",
+                        "deleting": "删除中..."
+                    },
+                    "messages": {
+                        "success": "账户删除启动成功",
+                        "error": "删除账户失败。请重试。",
+                        "confirmTextMismatch": "请准确输入\"{text}\"以确认删除。"
+                    }
+                }
+            },
+            "orderHistory": {
+                "title": "订单历史",
+                "subtitle": "跟踪您的所有eSIM购买和订阅",
+                "loading": "加载订单中...",
+                "summary": "显示{showing}个，共{total}个订单",
+                "fields": {
+                    "orderRef": "订单编号",
+                    "status": "订单状态",
+                    "amount": "金额",
+                    "orderedOn": "下单时间",
+                    "notAvailable": "不适用"
+                },
+                "status": {
+                    "delivered": "已送达",
+                    "shipped": "已发货",
+                    "processing": "处理中",
+                    "cancelled": "已取消",
+                    "completed": "已完成",
+                    "pending": "待处理"
+                },
+                "currency": {
+                    "format": "₹{amount}"
+                },
+                "actions": {
+                    "viewDetails": "查看详情",
+                    "downloadInvoice": "下载发票",
+                    "trackOrder": "跟踪订单",
+                    "contactSupport": "联系客服"
+                },
+                "empty": {
+                    "title": "未找到订单",
+                    "description": "您尚未下任何订单。开始探索我们的计划吧！",
+                    "browsePlans": "浏览计划"
+                },
+                "pagination": {
+                    "previous": "上一页",
+                    "next": "下一页",
+                    "pageInfo": "第{current}页，共{total}页"
+                },
+                "filters": {
+                    "all": "所有订单",
+                    "completed": "已完成",
+                    "pending": "待处理",
+                    "cancelled": "已取消"
+                }
+            },
+            "esimDetails": {
+                "title": "我的eSIM",
+                "subtitle": "管理您的活跃eSIM配置文件和数据计划",
+                "loading": "加载您的eSIM详情中...",
+                "instructionsModal": {
+                    "title": "安装说明"
+                },
+                "fields": {
+                    "iccid": "ICCID:",
+                    "matchingId": "匹配ID:",
+                    "status": "状态:",
+                    "activatedAt": "激活时间:",
+                    "expiredAt": "过期时间:",
+                    "activatedOn": "激活日期:",
+                    "expiryOn": "到期日期:",
+                    "validity": "有效期:",
+                    "price": "价格:",
+                    "package": "套餐:",
+                    "data": "数据:",
+                    "apnIos": "APN (iOS):",
+                    "apnAndroid": "APN (Android):"
+                },
+                "status": {
+                    "active": "活跃",
+                    "expired": "已过期",
+                    "inactive": "非活跃"
+                },
+                "timeLeft": {
+                    "expired": "已过期",
+                    "left": "剩余{time}",
+                    "days": "{count}天",
+                    "days_plural": "{count}天",
+                    "hours": "{count}小时",
+                    "hours_plural": "{count}小时",
+                    "minutes": "{count}分钟"
+                },
+                "actions": {
+                    "topup": "充值",
+                    "view": "查看",
+                    "installOnIos": "在iOS上安装",
+                    "installOnAndroid": "在Android上安装",
+                    "instructions": "安装说明"
+                },
+                "modal": {
+                    "title": "eSIM详情",
+                    "orderInfo": "订单信息",
+                    "installationGuide": "安装指南"
+                },
+                "empty": {
+                    "title": "未找到eSIM数据",
+                    "description": "您还没有eSIM数据。"
+                },
+                "currency": {
+                    "format": "{price} {currency}"
+                },
+                "validity": {
+                    "format": "{days}天"
+                }
+            }
+        }
+    }
+}

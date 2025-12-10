@@ -1,0 +1,320 @@
+{
+    "common": {
+        "title": "مرحبًا بك في تطبيقنا",
+        "description": "هذا تطبيق Next.js متعدد اللغات",
+        "navigation": {
+            "home": "الرئيسية",
+            "about": "نبذة عنا",
+            "products": "المنتجات",
+            "contact": "اتصل بنا"
+        },
+        "buttons": {
+            "learn_more": "اعرف المزيد",
+            "get_started": "ابدأ الآن",
+            "contact_us": "اتصل بنا",
+            "signIn": "تسجيل الدخول"
+        }
+    },
+    "home": {
+        "nav": {
+            "whatIsEsim": "ما هو الـ eSIM",
+            "aboutUs": "نبذة عنا",
+            "downloadApp": "تحميل التطبيق",
+            "appStore": "متجر التطبيقات",
+            "googlePlay": "متجر جوجل بلاي",
+            "resources": "الموارد",
+            "allDestinations": "جميع الوجهات",
+            "allPackages": "جميع الباقات",
+            "allCountryPlan": "جميع خطط الدول",
+            "supportedDevices": "الأجهزة المدعومة"
+        },
+        "hero": {
+            "byCreators": "من مبدعي",
+            "brandAlt": "شعار العلامة التجارية",
+            "mainHeading": "ابق على اتصال",
+            "mainSubHeading": "عالمياً مع حلول eSIM الذكية",
+            "description": "استمتع باتصال دولي سلس. احصل على وصول فوري لخطط البيانات المحلية في أكثر من 180 دولة دون عناء بطاقات SIM المادية.",
+            "chooseDestination": "اختر وجهتك للبدء",
+            "searchPlaceholder": "ابحث عن وجهة",
+            "featureCountries": "أكثر من 180 دولة",
+            "featureActivation": "تفعيل فوري",
+            "featureNoRoaming": "لا توجد رسوم تجوال",
+            "imageAlt": "امرأة تحمل هاتفًا بتقنية eSIM"
+        },
+        "whatIsEsim": {
+            "imageAlt": "ما هي تقنية eSIM",
+            "sectionTag": "شرح التكنولوجيا",
+            "heading": "ما هو الـ eSIM؟",
+            "description": "بطاقة eSIM (الشريحة المدمجة) هي بطاقة SIM رقمية مدمجة مباشرة في جهازك. على عكس بطاقات SIM المادية التقليدية، يمكن تفعيل بطاقات eSIM عن بعد وتسمح لك بالتبديل بين شركات الاتصالات دون الحاجة لتبديل البطاقات فعليًا.",
+            "keyBenefitsTitle": "الفوائد الرئيسية:",
+            "benefit1Title": "لا حاجة لبطاقات مادية",
+            "benefit1Desc": "كل شيء رقمي - لا مزيد من بطاقات SIM الصغيرة التي قد تُفقد أو تتلف",
+            "benefit2Title": "تفعيل فوري",
+            "benefit2Desc": "كن متصلًا في دقائق، وليس ساعات أو أيام",
+            "benefit3Title": "باقات متعددة",
+            "benefit3Desc": "خزّن عدة ملفات لشركات الاتصالات وقم بالتبديل بينها بسهولة"
+        },
+        "travelDestination": {
+            "globalEsim": "حلول eSIM العالمية",
+            "choosePlan": "اختر باقتك المثالية",
+            "planDescription": "احصل على بيانات جوال فورية في جميع أنحاء العالم. لا توجد بطاقات SIM مادية، لا توجد رسوم تجوال، فقط اتصال سلس أينما تسافر.",
+            "viewDestinations": "عرض جميع الوجهات الـ 180+",
+            "byCountry": "حسب الدولة",
+            "byRegion": "حسب المنطقة"
+        },
+        "popularPlan": {
+            "mostPopularEsims": "أكثر {count} باقات eSIM شعبية",
+            "popularEsims": "باقات eSIM الشعبية",
+            "choosePackages": "اختر من بين {total} باقة إجمالية موزعة على {pages} صفحة",
+            "viewAllPackages": "عرض جميع الباقات",
+            "chooseThisPlan": "اختر هذه الباقة",
+            "viewPlanDetails": "عرض تفاصيل الباقة"
+        },
+        "whyChoose": {
+            "whyChooseUs": "لماذا تختارنا؟",
+            "stayConnected": "ابقَ على اتصال أثناء السفر",
+            "feature1Title": "خطط بيانات مرنة",
+            "feature1Desc": "احصل على بيانات خلوية تناسب ميزانيتك ومسار رحلتك. من 1 جيجابايت إلى خطط غير محدودة، نحن نوفر لك كل ما تحتاج!",
+            "feature2Title": "إعداد بسيط",
+            "feature2Desc": "ما عليك سوى تنزيل تطبيق eSIM الخاص بنا، وتثبيت eSIM، وشراء خطة بيانات eSIM - ستُفعل تلقائيًا لحظة وصولك إلى وجهتك.",
+            "feature3Title": "لا توجد تكاليف خفية",
+            "feature3Desc": "إذا كنت ترغب في تجنب رسوم التجوال المكلفة، فإن تقنية eSIM تقدم بديلاً جيدًا. اعرف كم ستكلفك خدمة الإنترنت قبل إقلاعك!",
+            "feature4Title": "بطاقة eSIM واحدة لرحلات متعددة",
+            "feature4Desc": "أضف وجهات جديدة إلى بطاقة eSIM الحالية - لا حاجة لتثبيت بطاقات eSIM جديدة في كل مرة. فقط قم بالتعبئة وابقَ على اتصال!",
+            "feature5Title": "تنبيهات الاستخدام الذكية",
+            "feature5Desc": "لا تخاطر بنفاذ بيانات eSIM في أسوأ لحظة ممكنة - سنقوم بإخطارك عندما تستخدم 80% من باقتك.",
+            "feature6Title": "تغطية عالمية",
+            "feature6Desc": "ابقَ متصلاً أينما ذهبت - احصل على خطة بيانات eSIM عالمية أو خطة إقليمية لاستكشاف مناطق بأكملها وما بعدها."
+        },
+        "faq": {
+            "faqHeading": "الأسئلة الشائعة",
+            "faqDescription": "كل ما تحتاج لمعرفته حول إعداد eSIM، والتوافق، والاستخدام."
+        },
+        "footer": {
+            "popularDestinations": "الوجهات الشعبية",
+            "popularCountryPlan": "الخطط الشعبية للدول",
+            "esim": "eSIM",
+            "whatIsEsim": "ما هو الـ eSIM",
+            "supportedDevices": "الأجهزة المدعومة",
+            "aboutUs": "نبذة عنا",
+            "allDestinations": "جميع الوجهات",
+            "allPackages": "جميع الباقات",
+            "allCountryPlan": "جميع خطط الدول",
+            "allRegionPlan": "جميع الخطط الإقليمية",
+            "followUs": "تابعنا",
+            "twitter": "تويتر (الآن X)",
+            "facebook": "فيسبوك",
+            "linkedin": "لينكدإن",
+            "youtube": "يوتيوب",
+            "instagram": "إنستغرام",
+            "reddit": "ريديت",
+            "downloadOnThe": "حمله من",
+            "appStore": "متجر التطبيقات",
+            "getItOn": "احصل عليه من",
+            "googlePlay": "جوجل بلاي",
+            "copyright": "2025 eSIM Global. جميع الحقوق محفوظة.",
+            "privacyPolicy": "سياسة الخصوصية",
+            "termsOfService": "شروط الخدمة"
+        }
+    },
+    "whatIsEsim": {
+        "hero": {
+            "badge": {
+                "text": "تقنية الجيل التالي",
+                "icon": "Smartphone"
+            },
+            "title": "eSIM: ما هو، وكيف يعمل؟",
+            "description": "اكتشف تقنية SIM الرقمية الثورية التي تغير طريقة اتصالنا. لا مزيد من بطاقات SIM المادية، ولا مزيد من قيود شركات الاتصالات - فقط اتصال عالمي سلس.",
+            "stats": {
+                "countries": {
+                    "value": "200+",
+                    "label": "دولة"
+                },
+                "users": {
+                    "value": "5 مليون+",
+                    "label": "مستخدم"
+                },
+                "uptime": {
+                    "value": "%99.9",
+                    "label": "وقت التشغيل"
+                }
+            }
+        },
+        "whatIsSection": {
+            "badge": {
+                "text": "الابتكار الرقمي",
+                "icon": "Shield"
+            },
+            "title": "ما هو الـ eSIM؟",
+            "description": "بطاقة eSIM (الشريحة المدمجة) هي بطاقة SIM رقمية مدمجة مباشرة في جهازك. على عكس بطاقات SIM المادية التقليدية، فإن بطاقات eSIM قابلة للبرمجة ويمكن تفعيلها عن بعد، مما يسهل التبديل بين شركات الاتصالات وإدارة عدة أرقام هواتف.",
+            "keyFeatures": {
+                "title": "الميزات الرئيسية:",
+                "feature1": "لا حاجة لبطاقة SIM مادية",
+                "feature2": "تفعيل وتوفير عن بعد",
+                "feature3": "عدة ملفات لشركات الاتصالات على جهاز واحد",
+                "feature4": "أمان معزز ومقاومة للتلاعب"
+            },
+            "cta": {
+                "link": "/esim-supported-devices"
+            },
+            "floatingCard": {
+                "title": "إعداد فوري",
+                "description": "لا حاجة لبطاقة SIM مادية"
+            }
+        },
+        "howItWorks": {
+            "badge": {
+                "text": "عملية ذكية",
+                "icon": "Zap"
+            },
+            "title": "كيف يعمل الـ eSIM؟",
+            "description": "تعمل تقنية eSIM من خلال عملية توفير آمنة عبر الأثير. بدلاً من إدخال بطاقة مادية، يقوم جهازك بتنزيل وتثبيت ملفات شركات الاتصالات رقميًا، مما يجعل العملية بأكملها سلسة وفورية.",
+            "processTitle": "كيف يعمل:",
+            "steps": {
+                "step1": {
+                    "number": "1",
+                    "title": "اشترِ خطة eSIM",
+                    "description": "اختر خطة البيانات الخاصة بك وأكمل عملية الشراء عبر تطبيقنا"
+                },
+                "step2": {
+                    "number": "2",
+                    "title": "امسح رمز QR",
+                    "description": "احصل على رمز QR وقم بمسحه باستخدام كاميرا جهازك"
+                },
+                "step3": {
+                    "number": "3",
+                    "title": "إعداد تلقائي",
+                    "description": "يقوم جهازك بتنزيل وتثبيت ملف eSIM تلقائيًا"
+                },
+                "step4": {
+                    "number": "4",
+                    "title": "ابدأ الاستخدام",
+                    "description": "استمتع باتصال فوري دون أي بطاقة SIM مادية"
+                }
+            },
+            "cta": {
+                "text": "جرب eSIM الآن",
+                "icon": "Download",
+                "link": "/all-packages"
+            },
+            "statusIndicator": {
+                "text": "نشط"
+            }
+        },
+        "callToAction": {
+            "title": "هل أنت مستعد لتجربة تقنية eSIM؟",
+            "description": "انضم إلى ملايين المستخدمين حول العالم الذين تحولوا إلى الاتصال الرقمي",
+            "buttons": {
+                "downloadApp": {
+                    "text": "تحميل التطبيق",
+                    "icon": "Download",
+                    "link": "https://play.google.com/store/apps/details?id=com.esim.app"
+                },
+                "viewPlans": {
+                    "text": "عرض الخطط",
+                    "icon": "ArrowRight",
+                    "link": "/all-packages"
+                }
+            }
+        }
+    },
+    "aboutUs": {
+        "hero": {
+            "badge": {
+                "text": "قصتنا",
+                "icon": "Heart"
+            },
+            "title": "نبذة عن eSIM Tell",
+            "description": "ربط المسافرين حول العالم بحلول eSIM سلسة وبأسعار معقولة."
+        },
+        "mission": {
+            "badge": {
+                "text": "مهمتنا",
+                "icon": "Globe"
+            },
+            "title": "إحداث ثورة في الاتصال العالمي",
+            "description": "نحن نقدم حلول eSIM سلسة وفورية تبقيك على اتصال أينما تأخذك رحلتك. لا مزيد من رسوم التجوال المكلفة أو متاعب بطاقات SIM المحلية.",
+            "keyPoints": {
+                "point1": "تفعيل فوري في 60 ثانية",
+                "point2": "تغطية لأكثر من 180 دولة",
+                "point3": "أسعار شفافة"
+            },
+            "cta": {
+                "text": "استكشف الخطط",
+                "icon": "ArrowRight",
+                "link": "/all-destinations"
+            },
+            "floatingBadge": {
+                "value": "180+",
+                "label": "دولة"
+            }
+        },
+        "team": {
+            "badge": {
+                "text": "فريقنا",
+                "icon": "Users"
+            },
+            "title": "مبني من قبل مسافرين، للمسافرين",
+            "description": "يعمل فريقنا من المهندسين وخبراء السفر بلا كلل لضمان أن تكون تجربة اتصالك خالية من العيوب. لقد قمنا باختبار حلولنا في سيناريوهات واقعية حول العالم.",
+            "stats": {
+                "users": {
+                    "value": "1 مليون+",
+                    "label": "مستخدم سعيد"
+                },
+                "support": {
+                    "value": "24/7",
+                    "label": "دعم"
+                }
+            },
+            "values": {
+                "value1": "نهج الأمان أولاً",
+                "value2": "مهووسون بالعميل"
+            },
+            "floatingRating": {
+                "stars": 5,
+                "rating": "4.9"
+            }
+        },
+        "technology": {
+            "badge": {
+                "text": "الابتكار",
+                "icon": "Zap"
+            },
+            "title": "مستقبل الاتصال أثناء السفر",
+            "description": "تستخدم منصة eSIM المتطورة لدينا الذكاء الاصطناعي لربطك تلقائيًا بأفضل الشبكات المتاحة حول العالم. يضمن التحسين في الوقت الفعلي أسرع وأوثق الاتصالات.",
+            "techFeatures": {
+                "feature1": "اختيار الشبكة بالذكاء الاصطناعي",
+                "feature2": "تقنية التجوال الذكية",
+                "feature3": "أمان على مستوى عسكري"
+            },
+            "performanceStats": {
+                "uptime": {
+                    "value": "%99.9",
+                    "label": "وقت التشغيل"
+                },
+                "activation": {
+                    "value": "< 30 ثانية",
+                    "label": "التفعيل"
+                }
+            },
+            "cta": {
+                "text": "استكشف الباقات",
+                "icon": "ArrowRight",
+                "link": "/all-destinations"
+            },
+            "floatingBadge": {
+                "value": "5G",
+                "label": "جاهز"
+            }
+        },
+        "cta": {
+            "title": "هل أنت مستعد لتجربة الاتصال العالمي؟",
+            "description": "انضم إلى ملايين المسافرين الذين يثقون بـ eSIM Tell للاتصال السلس في جميع أنحاء العالم.",
+            "button": {
+                "text": "تصفح الخطط",
+                "icon": "Globe2",
+                "link": "/all-packages"
+            }
+        }
+    }
+}

@@ -1,0 +1,615 @@
+{
+    "common": {
+        "title": "Bienvenue sur notre application",
+        "description": "Ceci est une application Next.js multilingue",
+        "navigation": {
+            "home": "Accueil",
+            "about": "À propos",
+            "products": "Produits",
+            "contact": "Contact"
+        },
+        "buttons": {
+            "learn_more": "En savoir plus",
+            "get_started": "Commencer",
+            "contact_us": "Nous contacter",
+            "signIn": "Se connecter"
+        }
+    },
+    "home": {
+        "nav": {
+            "whatIsEsim": "Qu'est-ce qu'une eSIM",
+            "aboutUs": "À propos de nous",
+            "downloadApp": "Télécharger l'application",
+            "appStore": "App Store",
+            "googlePlay": "Google Play Store",
+            "resources": "Ressources",
+            "allDestinations": "Toutes les destinations",
+            "allPackages": "Tous les forfaits",
+            "allCountryPlan": "Tous les plans par pays",
+            "supportedDevices": "Appareils compatibles"
+        },
+        "hero": {
+            "byCreators": "Par les créateurs de",
+            "brandAlt": "Logo de la marque",
+            "mainHeading": "Restez connecté",
+            "mainSubHeading": "Partout dans le monde avec des solutions eSIM intelligentes",
+            "description": "Profitez d'une connectivité internationale sans faille. Accédez instantanément à des forfaits de données locaux dans plus de 180 pays sans les tracas des cartes SIM physiques.",
+            "chooseDestination": "Choisissez votre destination pour commencer",
+            "searchPlaceholder": "Rechercher une destination",
+            "featureCountries": "+180 Pays",
+            "featureActivation": "Activation instantanée",
+            "featureNoRoaming": "Pas de frais d'itinérance",
+            "imageAlt": "Femme tenant un téléphone eSIM"
+        },
+        "whatIsEsim": {
+            "imageAlt": "Qu'est-ce que la technologie eSIM",
+            "sectionTag": "Technologie expliquée",
+            "heading": "Qu'est-ce qu'une eSIM ?",
+            "description": "Une eSIM (embedded SIM) est une carte SIM numérique intégrée directement dans votre appareil. Contrairement aux cartes SIM physiques traditionnelles, les eSIM peuvent être activées à distance et vous permettent de changer d'opérateur sans avoir à échanger physiquement de carte.",
+            "keyBenefitsTitle": "Avantages clés :",
+            "benefit1Title": "Pas de cartes physiques",
+            "benefit1Desc": "Tout est numérique - plus de petites cartes SIM à perdre ou à endommager",
+            "benefit2Title": "Activation instantanée",
+            "benefit2Desc": "Soyez connecté en quelques minutes, pas en heures ou en jours",
+            "benefit3Title": "Plusieurs forfaits",
+            "benefit3Desc": "Stockez plusieurs profils d'opérateur et basculez facilement entre eux"
+        },
+        "travelDestination": {
+            "globalEsim": "Solutions eSIM mondiales",
+            "choosePlan": "Choisissez votre forfait parfait",
+            "planDescription": "Obtenez des données mobiles instantanées dans le monde entier. Pas de cartes SIM physiques, pas de frais d'itinérance, juste une connectivité sans faille où que vous voyagiez.",
+            "viewDestinations": "Voir toutes les 180+ destinations",
+            "byCountry": "Par pays",
+            "byRegion": "Par région"
+        },
+        "popularPlan": {
+            "mostPopularEsims": "Les {count} eSIM les plus populaires",
+            "popularEsims": "eSIM populaires",
+            "choosePackages": "Choisissez parmi {total} forfaits sur {pages} pages",
+            "viewAllPackages": "Voir tous les forfaits",
+            "chooseThisPlan": "Choisir ce forfait",
+            "viewPlanDetails": "Voir les détails du forfait"
+        },
+        "whyChoose": {
+            "whyChooseUs": "Pourquoi nous choisir ?",
+            "stayConnected": "Restez connecté en voyage",
+            "feature1Title": "Forfaits de données flexibles",
+            "feature1Desc": "Obtenez des données cellulaires qui correspondent à votre budget et à votre itinéraire. Des forfaits de 1 Go aux forfaits illimités, nous avons ce qu'il vous faut !",
+            "feature2Title": "Configuration simple",
+            "feature2Desc": "Il suffit de télécharger notre application eSIM, d'installer l'eSIM et d'acheter un forfait de données eSIM — il s'activera automatiquement dès que vous arriverez à destination.",
+            "feature3Title": "Pas de coûts cachés",
+            "feature3Desc": "Si vous voulez éviter les frais d'itinérance coûteux, la technologie eSIM offre une bonne alternative. Sachez combien coûtera votre connexion Internet avant de décoller !",
+            "feature4Title": "Une seule eSIM pour plusieurs voyages",
+            "feature4Desc": "Ajoutez de nouvelles destinations à votre eSIM existante - pas besoin d'installer de nouvelles eSIM à chaque fois. Il suffit de recharger et de se connecter !",
+            "feature5Title": "Alertes d'utilisation intelligentes",
+            "feature5Desc": "Ne risquez pas de manquer de données eSIM au pire moment possible - nous vous informerons lorsque vous aurez utilisé 80 % de votre forfait.",
+            "feature6Title": "Couverture mondiale",
+            "feature6Desc": "Restez en ligne où que vous alliez - obtenez un forfait de données eSIM mondial ou un plan régional pour explorer des régions entières et au-delà."
+        },
+        "faq": {
+            "faqHeading": "Questions fréquemment posées",
+            "faqDescription": "Tout ce que vous devez savoir sur la configuration, la compatibilité et l'utilisation de l'eSIM."
+        },
+        "footer": {
+            "popularDestinations": "Destinations populaires",
+            "popularCountryPlan": "Plans par pays populaires",
+            "esim": "eSIM",
+            "whatIsEsim": "Qu'est-ce qu'une eSIM",
+            "supportedDevices": "Appareils compatibles",
+            "aboutUs": "À propos de nous",
+            "allDestinations": "Toutes les destinations",
+            "allPackages": "Tous les forfaits",
+            "allCountryPlan": "Tous les plans par pays",
+            "allRegionPlan": "Tous les plans par région",
+            "followUs": "Suivez-nous",
+            "twitter": "Twitter (maintenant X)",
+            "facebook": "Facebook",
+            "linkedin": "LinkedIn",
+            "youtube": "YouTube",
+            "instagram": "Instagram",
+            "reddit": "Reddit",
+            "downloadOnThe": "Télécharger sur",
+            "appStore": "App Store",
+            "getItOn": "Téléchargez sur",
+            "googlePlay": "Google Play",
+            "copyright": "2025 eSIM Global. Tous droits réservés.",
+            "privacyPolicy": "Politique de confidentialité",
+            "termsOfService": "Conditions d'utilisation"
+        }
+    },
+    "whatIsEsim": {
+        "hero": {
+            "badge": {
+                "text": "Technologie de nouvelle génération",
+                "icon": "Smartphone"
+            },
+            "title": "eSIM : Qu'est-ce que c'est et comment ça marche ?",
+            "description": "Découvrez la technologie révolutionnaire de la SIM numérique qui change notre façon de nous connecter. Fini les cartes SIM physiques, finies les restrictions d'opérateur - juste une connectivité mondiale sans faille.",
+            "stats": {
+                "countries": {
+                    "value": "+200",
+                    "label": "Pays"
+                },
+                "users": {
+                    "value": "+5M",
+                    "label": "Utilisateurs"
+                },
+                "uptime": {
+                    "value": "99.9%",
+                    "label": "Disponibilité"
+                }
+            }
+        },
+        "whatIsSection": {
+            "badge": {
+                "text": "Innovation numérique",
+                "icon": "Shield"
+            },
+            "title": "Qu'est-ce qu'une eSIM ?",
+            "description": "Une eSIM (embedded SIM) est une carte SIM numérique intégrée directement dans votre appareil. Contrairement aux cartes SIM physiques traditionnelles, les eSIM sont programmables et peuvent être activées à distance, ce qui facilite le changement d'opérateur et la gestion de plusieurs numéros de téléphone.",
+            "keyFeatures": {
+                "title": "Fonctionnalités clés :",
+                "feature1": "Pas de carte SIM physique requise",
+                "feature2": "Activation et configuration à distance",
+                "feature3": "Plusieurs profils d'opérateur sur un seul appareil",
+                "feature4": "Sécurité renforcée et résistance aux manipulations"
+            },
+            "cta": {
+                "text": "Appareils Pris en Charge",
+                "link": "/esim-supported-devices"
+            },
+            "floatingCard": {
+                "title": "Configuration instantanée",
+                "description": "Pas besoin de SIM physique"
+            }
+        },
+        "howItWorks": {
+            "badge": {
+                "text": "Processus intelligent",
+                "icon": "Zap"
+            },
+            "title": "Comment fonctionne une eSIM ?",
+            "description": "La technologie eSIM fonctionne grâce à un processus de configuration sécurisé et sans fil. Au lieu d'insérer une carte physique, votre appareil télécharge et installe les profils d'opérateur numériquement, rendant l'ensemble du processus fluide et instantané.",
+            "processTitle": "Comment ça marche :",
+            "steps": {
+                "step1": {
+                    "number": "1",
+                    "title": "Acheter un forfait eSIM",
+                    "description": "Choisissez votre forfait de données et effectuez l'achat via notre application"
+                },
+                "step2": {
+                    "number": "2",
+                    "title": "Scanner le code QR",
+                    "description": "Recevez un code QR et scannez-le avec l'appareil photo de votre appareil"
+                },
+                "step3": {
+                    "number": "3",
+                    "title": "Configuration automatique",
+                    "description": "Votre appareil télécharge et installe automatiquement le profil eSIM"
+                },
+                "step4": {
+                    "number": "4",
+                    "title": "Commencer à utiliser",
+                    "description": "Profitez d'une connectivité instantanée sans carte SIM physique"
+                }
+            },
+            "cta": {
+                "text": "Essayez l'eSIM maintenant",
+                "icon": "Download",
+                "link": "/all-packages"
+            },
+            "statusIndicator": {
+                "text": "Actif"
+            }
+        },
+        "callToAction": {
+            "title": "Prêt à faire l'expérience de la technologie eSIM ?",
+            "description": "Rejoignez des millions d'utilisateurs à travers le monde qui sont passés à la connectivité numérique",
+            "buttons": {
+                "downloadApp": {
+                    "text": "Télécharger l'application",
+                    "icon": "Download",
+                    "link": "https://play.google.com/store/apps/details?id=com.esim.app"
+                },
+                "viewPlans": {
+                    "text": "Voir les forfaits",
+                    "icon": "ArrowRight",
+                    "link": "/all-packages"
+                }
+            }
+        }
+    },
+    "aboutUs": {
+        "hero": {
+            "badge": {
+                "text": "Notre histoire",
+                "icon": "Heart"
+            },
+            "title": "À propos d'eSIM Tell",
+            "description": "Connecter les voyageurs du monde entier avec des solutions eSIM fluides et abordables."
+        },
+        "mission": {
+            "badge": {
+                "text": "Notre mission",
+                "icon": "Globe"
+            },
+            "title": "Révolutionner la connectivité mondiale",
+            "description": "Nous fournissons des solutions eSIM instantanées et fluides qui vous maintiennent connecté où que votre voyage vous mène. Fini les frais d'itinérance coûteux ou les tracas des cartes SIM locales.",
+            "keyPoints": {
+                "point1": "Activation instantanée en 60 secondes",
+                "point2": "Couverture dans plus de 180 pays",
+                "point3": "Tarification transparente"
+            },
+            "cta": {
+                "text": "Explorer les forfaits",
+                "icon": "ArrowRight",
+                "link": "/all-destinations"
+            },
+            "floatingBadge": {
+                "value": "+180",
+                "label": "Pays"
+            }
+        },
+        "team": {
+            "badge": {
+                "text": "Notre équipe",
+                "icon": "Users"
+            },
+            "title": "Conçu par des voyageurs, pour des voyageurs",
+            "description": "Notre équipe d'ingénieurs et d'experts en voyages travaille sans relâche pour s'assurer que votre expérience de connectivité est impeccable. Nous avons testé nos solutions dans des scénarios réels à travers le monde.",
+            "stats": {
+                "users": {
+                    "value": "+1M",
+                    "label": "Utilisateurs heureux"
+                },
+                "support": {
+                    "value": "24/7",
+                    "label": "Assistance"
+                }
+            },
+            "values": {
+                "value1": "Approche de sécurité d'abord",
+                "value2": "Obsédés par le client"
+            },
+            "floatingRating": {
+                "stars": 5,
+                "rating": "4.9"
+            }
+        },
+        "technology": {
+            "badge": {
+                "text": "Innovation",
+                "icon": "Zap"
+            },
+            "title": "L'avenir de la connectivité en voyage",
+            "description": "Notre plateforme eSIM de pointe utilise l'IA pour vous connecter automatiquement aux meilleurs réseaux disponibles dans le monde entier. L'optimisation en temps réel garantit les connexions les plus rapides et les plus fiables.",
+            "techFeatures": {
+                "feature1": "Sélection de réseau par IA",
+                "feature2": "Technologie d'itinérance intelligente",
+                "feature3": "Sécurité de niveau militaire"
+            },
+            "performanceStats": {
+                "uptime": {
+                    "value": "99.9%",
+                    "label": "Disponibilité"
+                },
+                "activation": {
+                    "value": "< 30s",
+                    "label": "Activation"
+                }
+            },
+            "cta": {
+                "text": "Explorer les forfaits",
+                "icon": "ArrowRight",
+                "link": "/all-destinations"
+            },
+            "floatingBadge": {
+                "value": "5G",
+                "label": "Prêt"
+            }
+        },
+        "cta": {
+            "title": "Prêt à faire l'expérience de la connectivité mondiale ?",
+            "description": "Rejoignez des millions de voyageurs qui font confiance à eSIM Tell pour une connectivité sans faille partout dans le monde.",
+            "button": {
+                "text": "Parcourir les forfaits",
+                "icon": "Globe2",
+                "link": "/all-packages"
+            }
+        }
+    },
+    "profile": {
+        "header": {
+            "defaultAlt": "Utilisateur",
+            "joined": "Rejoint"
+        },
+        "sidebar": {
+            "title": "Paramètres du Compte",
+            "navigation": {
+                "accountInfo": "Informations du Compte",
+                "accountInfoDesc": "Gérez vos détails personnels",
+                "esimDetails": "Mes Détails E-Sim",
+                "esimDetailsDesc": "Gérez vos profils eSIM",
+                "orderHistory": "Historique des Commandes",
+                "orderHistoryDesc": "Voir votre historique d'achats",
+                "privacyPolicy": "Politique de Confidentialité",
+                "privacyPolicyDesc": "Lire nos conditions de confidentialité",
+                "termsConditions": "Conditions Générales",
+                "termsConditionsDesc": "Voir les conditions de service",
+                "faq": "FAQ",
+                "faqDesc": "Questions fréquemment posées",
+                "customerSupport": "Support Client",
+                "customerSupportDesc": "Obtenir de l'aide et du support"
+            }
+        },
+        "pages": {
+            "accountInfo": {
+                "profileInfo": {
+                    "title": "Informations du Profil",
+                    "profile": {
+                        "imageAlt": "Photo de Profil",
+                        "changePhoto": "Changer la Photo",
+                        "defaultName": "Nom d'Utilisateur",
+                        "memberSince": "Membre depuis {date}",
+                        "memberSinceDefault": "Membre depuis mars 2024",
+                        "imageSelected": "Nouvelle image sélectionnée - cliquez sur enregistrer pour mettre à jour"
+                    },
+                    "form": {
+                        "fullName": "Nom Complet",
+                        "namePlaceholder": "Entrez votre nom complet",
+                        "email": "Adresse E-mail",
+                        "country": "Pays",
+                        "currency": "Devise",
+                        "selectCurrency": "Sélectionner la devise",
+                        "verified": "Vérifié",
+                        "updateButton": "Mettre à Jour le Profil",
+                        "updating": "Mise à jour..."
+                    },
+                    "kyc": {
+                        "title": "Statut KYC",
+                        "label": "Connaître Votre Client (KYC)",
+                        "description": "Statut de vérification d'identité",
+                        "status": {
+                            "approved": "Approuvé",
+                            "rejected": "Rejeté",
+                            "pending": "En attente",
+                            "notApplied": "Non Appliqué"
+                        }
+                    },
+                    "messages": {
+                        "updateSuccess": "Profil mis à jour avec succès",
+                        "updateError": "Échec de la mise à jour du profil",
+                        "nameRequired": "Veuillez entrer votre nom complet",
+                        "currencyRequired": "Veuillez sélectionner une devise",
+                        "imageTooLarge": "La taille de l'image doit être inférieure à 5MB",
+                        "invalidImageFormat": "Veuillez sélectionner un format d'image valide (JPEG, JPG, PNG, WebP)"
+                    }
+                },
+                "packageCard": {
+                    "title": "Détails du Forfait",
+                    "topUp": {
+                        "button": "Recharger"
+                    },
+                    "location": {
+                        "flagAlt": "Drapeau {country}"
+                    },
+                    "usage": {
+                        "internet": "Internet",
+                        "unlimited": "Illimité",
+                        "dataRemaining": "{remaining} / {total} GB",
+                        "progressLabel": "{percent}% de données utilisées",
+                        "smsLeft": "{count} SMS restants",
+                        "smsNotAvailable": "SMS Non Disponible",
+                        "callMinsLeft": "{mins} minutes d'appel restantes",
+                        "callNotAvailable": "Appels Non Disponibles"
+                    },
+                    "expiry": {
+                        "text": "Expire le {date}"
+                    },
+                    "noPackage": {
+                        "title": "Aucun Forfait Actif",
+                        "description": "Vous n'avez aucun forfait eSIM actif"
+                    }
+                },
+                "kycVerification": {
+                    "title": "Complétez Votre Vérification KYC",
+                    "card": {
+                        "title": "Vérifiez Votre Identité",
+                        "description": "Complétez votre vérification KYC pour débloquer toutes les fonctionnalités et augmenter vos limites de transaction."
+                    },
+                    "documents": {
+                        "title": "Documents Requis:",
+                        "photoId": "Pièce d'Identité avec Photo Émise par le Gouvernement (Passeport, Permis de Conduire, Carte d'Identité)",
+                        "proofAddress": "Justificatif de Domicile (Facture de Services Publics, Relevé Bancaire)",
+                        "recentPhoto": "Photo Récente (Selfie)"
+                    },
+                    "benefits": {
+                        "title": "Avantages après KYC:",
+                        "higherLimits": "Limites de transaction plus élevées",
+                        "premiumPlans": "Accès aux forfaits premium",
+                        "prioritySupport": "Support client prioritaire",
+                        "enhancedSecurity": "Sécurité de compte renforcée"
+                    },
+                    "startProcess": "Commencer le Processus KYC",
+                    "modal": {
+                        "title": "Soumettre les Documents KYC"
+                    },
+                    "form": {
+                        "fullName": "Nom Complet",
+                        "dob": "Date de Naissance",
+                        "address": "Adresse",
+                        "identityCardNo": "Numéro de Carte d'Identité",
+                        "identityCard": "Carte d'Identité",
+                        "panCard": "Carte PAN",
+                        "recentPhoto": "Photo Récente",
+                        "placeholders": {
+                            "fullName": "Entrez votre nom complet tel qu'il apparaît sur la pièce d'identité",
+                            "address": "Entrez votre adresse complète",
+                            "identityCardNo": "Entrez le numéro d'ID (Carte d'Identité/Passeport/Permis)"
+                        },
+                        "fileFormats": "Formats acceptés: JPG, PNG, PDF (Max 5MB)",
+                        "imageFormats": "Formats acceptés: JPG, PNG (Max 5MB)",
+                        "validation": {
+                            "fullNameRequired": "Le nom complet est requis",
+                            "dobRequired": "La date de naissance est requise",
+                            "addressRequired": "L'adresse est requise",
+                            "identityCardNoRequired": "Le numéro de carte d'identité est requis",
+                            "identityCardRequired": "Le document de carte d'identité est requis",
+                            "panCardRequired": "Le document de carte PAN est requis",
+                            "photoRequired": "La photo récente est requise"
+                        },
+                        "cancel": "Annuler",
+                        "submit": "Soumettre KYC",
+                        "submitting": "Soumission..."
+                    }
+                },
+                "deleteAccount": {
+                    "dangerZone": "Zone de Danger",
+                    "title": "Supprimer le Compte",
+                    "description": "Vous pouvez supprimer votre compte de manière permanente. Notez que ce processus peut prendre du temps et ne peut pas être annulé après achèvement.",
+                    "confirmText": "SUPPRIMER MON COMPTE",
+                    "consequences": {
+                        "title": "Ce qui se passe quand vous supprimez votre compte:",
+                        "personalData": "Toutes vos données personnelles seront définitivement supprimées",
+                        "esimPlans": "Les forfaits eSIM actifs seront désactivés",
+                        "orderHistory": "L'historique des commandes et les enregistrements de transactions seront supprimés",
+                        "membershipBenefits": "Vous perdrez l'accès à tous les avantages de l'adhésion",
+                        "irreversible": "Cette action ne peut pas être annulée"
+                    },
+                    "button": {
+                        "delete": "SUPPRIMER LE COMPTE",
+                        "deleting": "SUPPRESSION..."
+                    },
+                    "modal": {
+                        "title": "Êtes-vous absolument sûr?",
+                        "description": "Cette action ne peut pas être annulée. Cela supprimera définitivement votre compte et supprimera toutes vos données de nos serveurs.",
+                        "youWillLose": "Vous perdrez:",
+                        "loss": {
+                            "esimPlans": "Tous les forfaits eSIM actifs",
+                            "balance": "Solde du compte et récompenses",
+                            "orderHistory": "Historique des commandes",
+                            "membership": "Avantages de l'adhésion"
+                        },
+                        "typeToConfirm": "Tapez \"{text}\" ci-dessous pour confirmer:",
+                        "placeholder": "Tapez: {text}",
+                        "textMismatch": "Le texte ne correspond pas. Veuillez taper exactement: \"{text}\"",
+                        "textMatches": "✓ Le texte de confirmation correspond",
+                        "cancel": "Annuler",
+                        "confirm": "Oui, supprimer mon compte",
+                        "deleting": "Suppression..."
+                    },
+                    "messages": {
+                        "success": "Suppression du compte initiée avec succès",
+                        "error": "Échec de la suppression du compte. Veuillez réessayer.",
+                        "confirmTextMismatch": "Veuillez taper \"{text}\" exactement pour confirmer la suppression."
+                    }
+                }
+            },
+            "orderHistory": {
+                "title": "Historique des Commandes",
+                "subtitle": "Suivez tous vos achats et abonnements eSIM",
+                "loading": "Chargement des commandes...",
+                "summary": "Affichage de {showing} sur {total} commandes",
+                "fields": {
+                    "orderRef": "Réf. Commande",
+                    "status": "Statut de la Commande",
+                    "amount": "Montant",
+                    "orderedOn": "Commandé le",
+                    "notAvailable": "N/D"
+                },
+                "status": {
+                    "delivered": "Livré",
+                    "shipped": "Expédié",
+                    "processing": "En cours",
+                    "cancelled": "Annulé",
+                    "completed": "Terminé",
+                    "pending": "En attente"
+                },
+                "currency": {
+                    "format": "₹{amount}"
+                },
+                "actions": {
+                    "viewDetails": "Voir les Détails",
+                    "downloadInvoice": "Télécharger la Facture",
+                    "trackOrder": "Suivre la Commande",
+                    "contactSupport": "Contacter le Support"
+                },
+                "empty": {
+                    "title": "Aucune commande trouvée",
+                    "description": "Vous n'avez encore passé aucune commande. Commencez à explorer nos forfaits!",
+                    "browsePlans": "Parcourir les Forfaits"
+                },
+                "pagination": {
+                    "previous": "Précédent",
+                    "next": "Suivant",
+                    "pageInfo": "Page {current} sur {total}"
+                },
+                "filters": {
+                    "all": "Toutes les Commandes",
+                    "completed": "Terminées",
+                    "pending": "En attente",
+                    "cancelled": "Annulées"
+                }
+            },
+            "esimDetails": {
+                "title": "Mon eSIM",
+                "subtitle": "Gérez vos profils eSIM actifs et forfaits de données",
+                "loading": "Chargement de vos détails eSIM...",
+                "instructionsModal": {
+                    "title": "Instructions d'Installation"
+                },
+                "fields": {
+                    "iccid": "ICCID:",
+                    "matchingId": "ID Correspondant:",
+                    "status": "Statut:",
+                    "activatedAt": "Activé À:",
+                    "expiredAt": "Expiré À:",
+                    "activatedOn": "Date d'Activation:",
+                    "expiryOn": "Date d'Expiration:",
+                    "validity": "Validité:",
+                    "price": "Prix:",
+                    "package": "Forfait:",
+                    "data": "Données:",
+                    "apnIos": "APN (iOS):",
+                    "apnAndroid": "APN (Android):"
+                },
+                "status": {
+                    "active": "ACTIF",
+                    "expired": "EXPIRÉ",
+                    "inactive": "INACTIF"
+                },
+                "timeLeft": {
+                    "expired": "Expiré",
+                    "left": "{time} restant",
+                    "days": "{count} jour",
+                    "days_plural": "{count} jours",
+                    "hours": "{count} heure",
+                    "hours_plural": "{count} heures",
+                    "minutes": "{count} min"
+                },
+                "actions": {
+                    "topup": "Recharger",
+                    "view": "Voir",
+                    "installOnIos": "Installer sur iOS",
+                    "installOnAndroid": "Installer sur Android",
+                    "instructions": "Instructions d'Installation"
+                },
+                "modal": {
+                    "title": "Détails eSIM",
+                    "orderInfo": "Informations de Commande",
+                    "installationGuide": "Guide d'Installation"
+                },
+                "empty": {
+                    "title": "Aucune donnée eSIM trouvée",
+                    "description": "Vous n'avez pas encore de données eSIM."
+                },
+                "currency": {
+                    "format": "{price} {currency}"
+                },
+                "validity": {
+                    "format": "{days} Jours"
+                }
+            }
+        }
+    }
+}

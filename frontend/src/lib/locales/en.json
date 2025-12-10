@@ -1,0 +1,615 @@
+{
+    "common": {
+        "title": "Welcome to our App",
+        "description": "This is a multilingual Next.js application",
+        "navigation": {
+            "home": "Home",
+            "about": "About",
+            "products": "Products",
+            "contact": "Contact"
+        },
+        "buttons": {
+            "learn_more": "Learn More",
+            "get_started": "Get Started",
+            "contact_us": "Contact Us",
+            "signIn": "Sign In"
+        }
+    },
+    "home": {
+        "nav": {
+            "whatIsEsim": "What is an eSIM",
+            "aboutUs": "About Us",
+            "downloadApp": "Download App",
+            "appStore": "App Store",
+            "googlePlay": "Google Play Store",
+            "resources": "Resources",
+            "allDestinations": "All Destinations",
+            "allPackages": "All Packages",
+            "allCountryPlan": "All Country Plan",
+            "supportedDevices": "Supported Devices"
+        },
+        "hero": {
+            "byCreators": "By the creators of",
+            "brandAlt": "Brand Logo",
+            "mainHeading": "Stay Connected ",
+            "mainSubHeading": "Globally with Smart eSIM Solutions",
+            "description": "Experience seamless international connectivity. Get instant access to local data plans in 180+ countries without the hassle of physical SIM cards.",
+            "chooseDestination": "Choose your destination to get started",
+            "searchPlaceholder": "Search for destination",
+            "featureCountries": "180+ Countries",
+            "featureActivation": "Instant Activation",
+            "featureNoRoaming": "No Roaming Fees",
+            "imageAlt": "Woman holding eSIM phone"
+        },
+        "whatIsEsim": {
+            "imageAlt": "What is eSIM Technology",
+            "sectionTag": "Technology Explained",
+            "heading": "What is an eSIM?",
+            "description": "An eSIM (embedded SIM) is a digital SIM card that's built directly into your device. Unlike traditional physical SIM cards, eSIMs can be activated remotely and allow you to switch between carriers without needing to physically swap cards.",
+            "keyBenefitsTitle": "Key Benefits:",
+            "benefit1Title": "No Physical Cards",
+            "benefit1Desc": "Everything is digital - no more tiny SIM cards to lose or damage",
+            "benefit2Title": "Instant Activation",
+            "benefit2Desc": "Get connected in minutes, not hours or days",
+            "benefit3Title": "Multiple Plans",
+            "benefit3Desc": "Store multiple carrier profiles and switch between them easily"
+        },
+        "travelDestination": {
+            "globalEsim": "Global eSIM Solutions",
+            "choosePlan": "Choose Your Perfect Plan",
+            "planDescription": "Get instant mobile data worldwide. No physical SIM cards, no roaming fees, just seamless connectivity wherever you travel.",
+            "viewDestinations": "View All 180+ Destinations",
+            "byCountry": "By Country",
+            "byRegion": "By Region"
+        },
+        "popularPlan": {
+            "mostPopularEsims": "Most {count} Popular eSIMs",
+            "popularEsims": "Popular eSIMs",
+            "choosePackages": "Choose from {total} total packages across {pages} pages",
+            "viewAllPackages": "View All Packages",
+            "chooseThisPlan": "Choose This Plan",
+            "viewPlanDetails": "View Plan Details"
+        },
+        "whyChoose": {
+            "whyChooseUs": "Why choose us?",
+            "stayConnected": "Stay connected while traveling",
+            "feature1Title": "Flexible Data Plans",
+            "feature1Desc": "Get cellular data that works for your budget and itinerary. From 1 GB to unlimited plans, we've got you covered!",
+            "feature2Title": "Simple Setup",
+            "feature2Desc": "Just download our eSIM app, install the eSIM, and buy an eSIM data plan — it will activate automatically the moment you reach your destination.",
+            "feature3Title": "No Hidden Costs",
+            "feature3Desc": "If you want to avoid costly roaming, eSIM technology offers a good alternative. Know how much your internet connection will cost before you take off!",
+            "feature4Title": "One eSIM for Multiple Trips",
+            "feature4Desc": "Add new destinations to your existing eSIM — no need to install new eSIMs every time. Just top up and connect!",
+            "feature5Title": "Smart Usage Alerts",
+            "feature5Desc": "Don't risk running out of eSIM data at the worst possible moment — we'll notify you when you've used up 80% of your plan.",
+            "feature6Title": "Worldwide Coverage",
+            "feature6Desc": "Stay online wherever you go — get a Global eSIM data plan or regional plan to explore entire regions and beyond."
+        },
+        "faq": {
+            "faqHeading": "Frequently asked questions",
+            "faqDescription": "Everything you need to know about eSIM setup, compatibility, and usage."
+        },
+        "footer": {
+            "popularDestinations": "Popular Destinations",
+            "popularCountryPlan": "Popular Country Plan",
+            "esim": "eSIM",
+            "whatIsEsim": "What is an eSIM",
+            "supportedDevices": "Supported Devices",
+            "aboutUs": "About Us",
+            "allDestinations": "All Destinations",
+            "allPackages": "All Packages",
+            "allCountryPlan": "All Country Plan",
+            "allRegionPlan": "All Region Plan",
+            "followUs": "Follow Us",
+            "twitter": "Twitter (now X)",
+            "facebook": "Facebook",
+            "linkedin": "LinkedIn",
+            "youtube": "YouTube",
+            "instagram": "Instagram",
+            "reddit": "Reddit",
+            "downloadOnThe": "Download on the",
+            "appStore": "App Store",
+            "getItOn": "GET IT ON",
+            "googlePlay": "Google Play",
+            "copyright": "2025 eSIM Global. All rights reserved.",
+            "privacyPolicy": "Privacy Policy",
+            "termsOfService": "Terms of Service"
+        }
+    },
+    "whatIsEsim": {
+        "hero": {
+            "badge": {
+                "text": "Next-Gen Technology",
+                "icon": "Smartphone"
+            },
+            "title": "eSIM: What is it, and how does it work?",
+            "description": "Discover the revolutionary digital SIM technology that's changing how we connect. No more physical SIM cards, no more carrier restrictions – just seamless global connectivity.",
+            "stats": {
+                "countries": {
+                    "value": "200+",
+                    "label": "Countries"
+                },
+                "users": {
+                    "value": "5M+",
+                    "label": "Users"
+                },
+                "uptime": {
+                    "value": "99.9%",
+                    "label": "Uptime"
+                }
+            }
+        },
+        "whatIsSection": {
+            "badge": {
+                "text": "Digital Innovation",
+                "icon": "Shield"
+            },
+            "title": "What is an eSIM?",
+            "description": "An eSIM (embedded SIM) is a digital SIM card that's built directly into your device. Unlike traditional physical SIM cards, eSIMs are programmable and can be activated remotely, making it easier to switch carriers and manage multiple phone numbers.",
+            "keyFeatures": {
+                "title": "Key Features:",
+                "feature1": "No physical SIM card required",
+                "feature2": "Remote activation and provisioning",
+                "feature3": "Multiple carrier profiles on one device",
+                "feature4": "Enhanced security and tamper resistance"
+            },
+            "cta": {
+                "text": "Supported Devices",
+                "link": "/esim-supported-devices"
+            },
+            "floatingCard": {
+                "title": "Instant Setup",
+                "description": "No physical SIM needed"
+            }
+        },
+        "howItWorks": {
+            "badge": {
+                "text": "Smart Process",
+                "icon": "Zap"
+            },
+            "title": "How does an eSIM work?",
+            "description": "eSIM technology works through a secure, over-the-air provisioning process. Instead of inserting a physical card, your device downloads and installs carrier profiles digitally, making the entire process seamless and instant.",
+            "processTitle": "How it works:",
+            "steps": {
+                "step1": {
+                    "number": "1",
+                    "title": "Purchase eSIM Plan",
+                    "description": "Choose your data plan and complete the purchase through our app"
+                },
+                "step2": {
+                    "number": "2",
+                    "title": "Scan QR Code",
+                    "description": "Receive a QR code and scan it with your device's camera"
+                },
+                "step3": {
+                    "number": "3",
+                    "title": "Automatic Setup",
+                    "description": "Your device downloads and installs the eSIM profile automatically"
+                },
+                "step4": {
+                    "number": "4",
+                    "title": "Start Using",
+                    "description": "Enjoy instant connectivity without any physical SIM card"
+                }
+            },
+            "cta": {
+                "text": "Try eSIM Now",
+                "icon": "Download",
+                "link": "/all-packages"
+            },
+            "statusIndicator": {
+                "text": "Active"
+            }
+        },
+        "callToAction": {
+            "title": "Ready to Experience eSIM Technology?",
+            "description": "Join millions of users worldwide who have made the switch to digital connectivity",
+            "buttons": {
+                "downloadApp": {
+                    "text": "Download App",
+                    "icon": "Download",
+                    "link": "https://play.google.com/store/apps/details?id=com.esim.app"
+                },
+                "viewPlans": {
+                    "text": "View Plans",
+                    "icon": "ArrowRight",
+                    "link": "/all-packages"
+                }
+            }
+        }
+    },
+    "aboutUs": {
+        "hero": {
+            "badge": {
+                "text": "Our Story",
+                "icon": "Heart"
+            },
+            "title": "About eSIM Tell",
+            "description": "Connecting travelers worldwide with seamless, affordable eSIM solutions."
+        },
+        "mission": {
+            "badge": {
+                "text": "Our Mission",
+                "icon": "Globe"
+            },
+            "title": "Revolutionizing Global Connectivity",
+            "description": "We provide seamless, instant eSIM solutions that keep you connected wherever your journey takes you. No more expensive roaming charges or local SIM card hassles.",
+            "keyPoints": {
+                "point1": "Instant activation in 60 seconds",
+                "point2": "180+ countries coverage",
+                "point3": "Transparent pricing"
+            },
+            "cta": {
+                "text": "Explore Plans",
+                "icon": "ArrowRight",
+                "link": "/all-destinations"
+            },
+            "floatingBadge": {
+                "value": "180+",
+                "label": "Countries"
+            }
+        },
+        "team": {
+            "badge": {
+                "text": "Our Team",
+                "icon": "Users"
+            },
+            "title": "Built by Travelers, for Travelers",
+            "description": "Our team of engineers and travel experts work tirelessly to ensure your connectivity experience is flawless. We've tested our solutions in real-world scenarios worldwide.",
+            "stats": {
+                "users": {
+                    "value": "1M+",
+                    "label": "Happy Users"
+                },
+                "support": {
+                    "value": "24/7",
+                    "label": "Support"
+                }
+            },
+            "values": {
+                "value1": "Security first approach",
+                "value2": "Customer obsessed"
+            },
+            "floatingRating": {
+                "stars": 5,
+                "rating": "4.9"
+            }
+        },
+        "technology": {
+            "badge": {
+                "text": "Innovation",
+                "icon": "Zap"
+            },
+            "title": "The Future of Travel Connectivity",
+            "description": "Our cutting-edge eSIM platform uses AI to automatically connect you to the best available networks worldwide. Real-time optimization ensures fastest, most reliable connections.",
+            "techFeatures": {
+                "feature1": "AI network selection",
+                "feature2": "Smart roaming technology",
+                "feature3": "Military-grade security"
+            },
+            "performanceStats": {
+                "uptime": {
+                    "value": "99.9%",
+                    "label": "Uptime"
+                },
+                "activation": {
+                    "value": "< 30s",
+                    "label": "Activation"
+                }
+            },
+            "cta": {
+                "text": "Explore Packages",
+                "icon": "ArrowRight",
+                "link": "/all-destinations"
+            },
+            "floatingBadge": {
+                "value": "5G",
+                "label": "Ready"
+            }
+        },
+        "cta": {
+            "title": "Ready to Experience Global Connectivity?",
+            "description": "Join millions of travelers who trust eSIM Tell for seamless connectivity worldwide.",
+            "button": {
+                "text": "Browse Plans",
+                "icon": "Globe2",
+                "link": "/all-packages"
+            }
+        }
+    },
+    "profile": {
+        "header": {
+            "defaultAlt": "User",
+            "joined": "Joined"
+        },
+        "sidebar": {
+            "title": "Account Settings",
+            "navigation": {
+                "accountInfo": "Account Information",
+                "accountInfoDesc": "Manage your personal details",
+                "esimDetails": "My E-Sim Details",
+                "esimDetailsDesc": "Manage your eSIM profiles",
+                "orderHistory": "Order History",
+                "orderHistoryDesc": "View your purchase history",
+                "privacyPolicy": "Privacy Policy",
+                "privacyPolicyDesc": "Read our privacy terms",
+                "termsConditions": "Terms & Conditions",
+                "termsConditionsDesc": "View service terms",
+                "faq": "FAQ",
+                "faqDesc": "Frequently asked questions",
+                "customerSupport": "Customer Support",
+                "customerSupportDesc": "Get help and support"
+            }
+        },
+        "pages": {
+            "accountInfo": {
+                "profileInfo": {
+                    "title": "Profile Information",
+                    "profile": {
+                        "imageAlt": "Profile Picture",
+                        "changePhoto": "Change Photo",
+                        "defaultName": "User Name",
+                        "memberSince": "Member since {date}",
+                        "memberSinceDefault": "Member since March 2024",
+                        "imageSelected": "New image selected - click save to update"
+                    },
+                    "form": {
+                        "fullName": "Full Name",
+                        "namePlaceholder": "Enter your full name",
+                        "email": "Email Address",
+                        "country": "Country",
+                        "currency": "Currency",
+                        "selectCurrency": "Select currency",
+                        "verified": "Verified",
+                        "updateButton": "Update Profile",
+                        "updating": "Updating..."
+                    },
+                    "kyc": {
+                        "title": "KYC Status",
+                        "label": "Know Your Customer (KYC)",
+                        "description": "Identity verification status",
+                        "status": {
+                            "approved": "Approved",
+                            "rejected": "Rejected",
+                            "pending": "Pending",
+                            "notApplied": "Not Applied"
+                        }
+                    },
+                    "messages": {
+                        "updateSuccess": "Profile updated successfully",
+                        "updateError": "Failed to update profile",
+                        "nameRequired": "Please enter your full name",
+                        "currencyRequired": "Please select a currency",
+                        "imageTooLarge": "Image size must be less than 5MB",
+                        "invalidImageFormat": "Please select a valid image format (JPEG, JPG, PNG, WebP)"
+                    }
+                },
+                "packageCard": {
+                    "title": "Package Details",
+                    "topUp": {
+                        "button": "Top Up"
+                    },
+                    "location": {
+                        "flagAlt": "{country} Flag"
+                    },
+                    "usage": {
+                        "internet": "Internet",
+                        "unlimited": "Unlimited",
+                        "dataRemaining": "{remaining} / {total} GB",
+                        "progressLabel": "{percent}% data used",
+                        "smsLeft": "{count} SMS left",
+                        "smsNotAvailable": "SMS Not Available",
+                        "callMinsLeft": "{mins} Call mins left",
+                        "callNotAvailable": "Call Not Available"
+                    },
+                    "expiry": {
+                        "text": "Expires on {date}"
+                    },
+                    "noPackage": {
+                        "title": "No Active Package",
+                        "description": "You don't have any active eSIM package"
+                    }
+                },
+                "kycVerification": {
+                    "title": "Complete Your KYC Verification",
+                    "card": {
+                        "title": "Verify Your Identity",
+                        "description": "Complete your KYC verification to unlock all features and increase your transaction limits."
+                    },
+                    "documents": {
+                        "title": "Required Documents:",
+                        "photoId": "Government-issued Photo ID (Passport, Driving License, Aadhaar)",
+                        "proofAddress": "Proof of Address (Utility Bill, Bank Statement)",
+                        "recentPhoto": "Recent Photograph (Selfie)"
+                    },
+                    "benefits": {
+                        "title": "Benefits after KYC:",
+                        "higherLimits": "Higher transaction limits",
+                        "premiumPlans": "Access to premium plans",
+                        "prioritySupport": "Priority customer support",
+                        "enhancedSecurity": "Enhanced account security"
+                    },
+                    "startProcess": "Start KYC Process",
+                    "modal": {
+                        "title": "Submit KYC Documents"
+                    },
+                    "form": {
+                        "fullName": "Full Name",
+                        "dob": "Date of Birth",
+                        "address": "Address",
+                        "identityCardNo": "Identity Card Number",
+                        "identityCard": "Identity Card",
+                        "panCard": "PAN Card",
+                        "recentPhoto": "Recent Photo",
+                        "placeholders": {
+                            "fullName": "Enter your full name as per ID",
+                            "address": "Enter your complete address",
+                            "identityCardNo": "Enter ID number (Aadhaar/Passport/License)"
+                        },
+                        "fileFormats": "Accepted formats: JPG, PNG, PDF (Max 5MB)",
+                        "imageFormats": "Accepted formats: JPG, PNG (Max 5MB)",
+                        "validation": {
+                            "fullNameRequired": "Full name is required",
+                            "dobRequired": "Date of birth is required",
+                            "addressRequired": "Address is required",
+                            "identityCardNoRequired": "Identity card number is required",
+                            "identityCardRequired": "Identity card document is required",
+                            "panCardRequired": "PAN card document is required",
+                            "photoRequired": "Recent photo is required"
+                        },
+                        "cancel": "Cancel",
+                        "submit": "Submit KYC",
+                        "submitting": "Submitting..."
+                    }
+                },
+                "deleteAccount": {
+                    "dangerZone": "Danger Zone",
+                    "title": "Delete Account",
+                    "description": "You can delete your account permanently. Note that this process can take a while and can't be undone after completion.",
+                    "confirmText": "DELETE MY ACCOUNT",
+                    "consequences": {
+                        "title": "What happens when you delete your account:",
+                        "personalData": "All your personal data will be permanently removed",
+                        "esimPlans": "Active eSIM plans will be deactivated",
+                        "orderHistory": "Order history and transaction records will be deleted",
+                        "membershipBenefits": "You'll lose access to all membership benefits",
+                        "irreversible": "This action cannot be undone"
+                    },
+                    "button": {
+                        "delete": "DELETE ACCOUNT",
+                        "deleting": "DELETING..."
+                    },
+                    "modal": {
+                        "title": "Are you absolutely sure?",
+                        "description": "This action cannot be undone. This will permanently delete your account and remove all your data from our servers.",
+                        "youWillLose": "You will lose:",
+                        "loss": {
+                            "esimPlans": "All active eSIM plans",
+                            "balance": "Account balance and rewards",
+                            "orderHistory": "Order history",
+                            "membership": "Membership benefits"
+                        },
+                        "typeToConfirm": "Type \"{text}\" below to confirm:",
+                        "placeholder": "Type: {text}",
+                        "textMismatch": "Text doesn't match. Please type exactly: \"{text}\"",
+                        "textMatches": "✓ Confirmation text matches",
+                        "cancel": "Cancel",
+                        "confirm": "Yes, delete my account",
+                        "deleting": "Deleting..."
+                    },
+                    "messages": {
+                        "success": "Account deletion initiated successfully",
+                        "error": "Failed to delete account. Please try again.",
+                        "confirmTextMismatch": "Please type \"{text}\" exactly to confirm deletion."
+                    }
+                }
+            },
+            "orderHistory": {
+                "title": "Order History",
+                "subtitle": "Track all your eSIM purchases and subscriptions",
+                "loading": "Loading orders...",
+                "summary": "Showing {showing} of {total} orders",
+                "fields": {
+                    "orderRef": "Order Ref",
+                    "status": "Order Status",
+                    "amount": "Amount",
+                    "orderedOn": "Ordered On",
+                    "notAvailable": "N/A"
+                },
+                "status": {
+                    "delivered": "Delivered",
+                    "shipped": "Shipped",
+                    "processing": "Processing",
+                    "cancelled": "Cancelled",
+                    "completed": "Completed",
+                    "pending": "Pending"
+                },
+                "currency": {
+                    "format": "₹{amount}"
+                },
+                "actions": {
+                    "viewDetails": "View Details",
+                    "downloadInvoice": "Download Invoice",
+                    "trackOrder": "Track Order",
+                    "contactSupport": "Contact Support"
+                },
+                "empty": {
+                    "title": "No orders found",
+                    "description": "You haven't placed any orders yet. Start exploring our plans!",
+                    "browsePlans": "Browse Plans"
+                },
+                "pagination": {
+                    "previous": "Previous",
+                    "next": "Next",
+                    "pageInfo": "Page {current} of {total}"
+                },
+                "filters": {
+                    "all": "All Orders",
+                    "completed": "Completed",
+                    "pending": "Pending",
+                    "cancelled": "Cancelled"
+                }
+            },
+            "esimDetails": {
+                "title": "My eSIM",
+                "subtitle": "Manage your active eSIM profiles and data plans",
+                "loading": "Loading your eSIM details...",
+                "instructionsModal": {
+                    "title": "Installation Instructions"
+                },
+                "fields": {
+                    "iccid": "ICCID:",
+                    "matchingId": "Matching ID:",
+                    "status": "Status:",
+                    "activatedAt": "Activated At:",
+                    "expiredAt": "Expired At:",
+                    "activatedOn": "Activated On:",
+                    "expiryOn": "Expiry On:",
+                    "validity": "Validity:",
+                    "price": "Price:",
+                    "package": "Package:",
+                    "data": "Data:",
+                    "apnIos": "APN (iOS):",
+                    "apnAndroid": "APN (Android):"
+                },
+                "status": {
+                    "active": "ACTIVE",
+                    "expired": "EXPIRED",
+                    "inactive": "INACTIVE"
+                },
+                "timeLeft": {
+                    "expired": "Expired",
+                    "left": "{time} left",
+                    "days": "{count} day",
+                    "days_plural": "{count} days",
+                    "hours": "{count} hour",
+                    "hours_plural": "{count} hours",
+                    "minutes": "{count} min"
+                },
+                "actions": {
+                    "topup": "Topup",
+                    "view": "View",
+                    "installOnIos": "Install on iOS",
+                    "installOnAndroid": "Install on Android",
+                    "instructions": "Instructions"
+                },
+                "modal": {
+                    "title": "eSIM Details",
+                    "orderInfo": "Order Info",
+                    "installationGuide": "Installation Guide"
+                },
+                "empty": {
+                    "title": "No eSIM data found",
+                    "description": "You haven't eSIM data yet."
+                },
+                "currency": {
+                    "format": "{price} {currency}"
+                },
+                "validity": {
+                    "format": "{days} Days"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,617 @@
+{
+    "common": {
+        "title": "हमारे ऐप में आपका स्वागत है",
+        "description": "यह एक बहुभाषी Next.js एप्लिकेशन है",
+        "navigation": {
+            "home": "होम",
+            "about": "हमारे बारे में",
+            "products": "उत्पाद",
+            "contact": "संपर्क करें"
+        },
+        "buttons": {
+            "learn_more": "और जानें",
+            "get_started": "शुरू करें",
+            "contact_us": "हमसे संपर्क करें",
+            "signIn": "साइन इन"
+        }
+    },
+    "home": {
+        "nav": {
+            "whatIsEsim": "eSIM क्या है",
+            "aboutUs": "हमारे बारे में",
+            "downloadApp": "ऐप डाउनलोड करें",
+            "appStore": "ऐप स्टोर",
+            "googlePlay": "गूगल प्ले स्टोर",
+            "resources": "संसाधन",
+            "allDestinations": "सभी गंतव्य",
+            "allPackages": "सभी पैकेज",
+            "allCountryPlan": "सभी देश योजना",
+            "supportedDevices": "समर्थित डिवाइस"
+        },
+        "hero": {
+            "byCreators": "निर्माताओं द्वारा",
+            "brandAlt": "ब्रांड लोगो",
+            "mainHeading": "जुड़े रहें",
+            "mainSubHeading": "स्मार्ट eSIM समाधानों के साथ वैश्विक रूप से",
+            "description": "बिना किसी रुकावट के अंतरराष्ट्रीय कनेक्टिविटी का अनुभव करें। 180+ देशों में स्थानीय डेटा प्लान तक तुरंत पहुँच प्राप्त करें, वह भी बिना फिजिकल सिम कार्ड की झंझट के।",
+            "chooseDestination": "शुरू करने के लिए अपना गंतव्य चुनें",
+            "searchPlaceholder": "गंतव्य खोजें",
+            "featureCountries": "180+ देश",
+            "featureActivation": "तुरंत सक्रियण",
+            "featureNoRoaming": "कोई रोमिंग शुल्क नहीं",
+            "imageAlt": "eSIM फोन पकड़े हुई महिला"
+        },
+        "whatIsEsim": {
+            "imageAlt": "eSIM तकनीक क्या है",
+            "sectionTag": "तकनीक समझाई गई",
+            "heading": "eSIM क्या है?",
+            "description": "eSIM (एम्बेडेड सिम) एक डिजिटल सिम कार्ड है जो सीधे आपके डिवाइस में लगा होता है। पारंपरिक फिजिकल सिम कार्ड के विपरीत, eSIM को रिमोटली सक्रिय किया जा सकता है और यह आपको बिना कार्ड बदले आसानी से ऑपरेटर बदलने की सुविधा देता है।",
+            "keyBenefitsTitle": "मुख्य फायदे:",
+            "benefit1Title": "कोई फिजिकल कार्ड नहीं",
+            "benefit1Desc": "सब कुछ डिजिटल है – अब छोटे सिम कार्ड खोने या खराब होने की चिंता नहीं",
+            "benefit2Title": "तुरंत सक्रियण",
+            "benefit2Desc": "मिनटों में कनेक्ट हो जाएं, घंटों या दिनों का इंतज़ार नहीं",
+            "benefit3Title": "एकाधिक प्लान",
+            "benefit3Desc": "कई ऑपरेटर प्रोफाइल सेव करें और आसानी से उनके बीच स्विच करें"
+        },
+        "travelDestination": {
+            "globalEsim": "ग्लोबल eSIM समाधान",
+            "choosePlan": "अपना आदर्श प्लान चुनें",
+            "planDescription": "दुनियाभर में तुरंत मोबाइल डेटा प्राप्त करें। कोई फिजिकल सिम कार्ड नहीं, कोई रोमिंग शुल्क नहीं, बस जहाँ भी यात्रा करें, निर्बाध कनेक्टिविटी।",
+            "viewDestinations": "सभी 180+ गंतव्य देखें",
+            "byCountry": "देश द्वारा",
+            "byRegion": "क्षेत्र द्वारा"
+        },
+        "popularPlan": {
+            "mostPopularEsims": "सबसे लोकप्रिय {count} eSIMs",
+            "popularEsims": "लोकप्रिय eSIMs",
+            "choosePackages": "{pages} पृष्ठों में से कुल {total} पैकेजों में से चुनें",
+            "viewAllPackages": "सभी पैकेज देखें",
+            "viewAllPlans": "सभी योजनाएं देखें",
+            "chooseThisPlan": "इस योजना को चुनें",
+            "viewPlanDetails": "योजना विवरण देखें"
+        },
+        "whyChoose": {
+            "whyChooseUs": "हमें क्यों चुनें?",
+            "stayConnected": "यात्रा के दौरान जुड़े रहें",
+            "feature1Title": "लचीले डेटा प्लान",
+            "feature1Desc": "ऐसे मोबाइल डेटा प्राप्त करें जो आपके बजट और यात्रा योजना के अनुसार हो। 1 GB से लेकर अनलिमिटेड प्लान तक, हम आपके लिए तैयार हैं!",
+            "feature2Title": "सिंपल सेटअप",
+            "feature2Desc": "बस हमारा eSIM ऐप डाउनलोड करें, eSIM इंस्टॉल करें, और eSIM डेटा प्लान खरीदें — यह आपके गंतव्य पर पहुँचते ही स्वचालित रूप से सक्रिय हो जाएगा।",
+            "feature3Title": "कोई छुपे हुए खर्च नहीं",
+            "feature3Desc": "यदि आप महंगी रोमिंग से बचना चाहते हैं, तो eSIM तकनीक एक अच्छा विकल्प है। उड़ान भरने से पहले जान लें कि आपकी इंटरनेट कनेक्शन की लागत कितनी होगी!",
+            "feature4Title": "एक eSIM, कई यात्राओं के लिए",
+            "feature4Desc": "अपने मौजूदा eSIM में नए गंतव्य जोड़ें — हर बार नया eSIM इंस्टॉल करने की आवश्यकता नहीं। बस रीचार्ज करें और कनेक्ट करें!",
+            "feature5Title": "स्मार्ट उपयोग अलर्ट",
+            "feature5Desc": "सबसे खराब समय पर eSIM डेटा खत्म होने का जोखिम न उठाएँ — हम आपको सूचित करेंगे जब आपने अपने प्लान का 80% उपयोग कर लिया हो।",
+            "feature6Title": "विश्वव्यापी कवरेज",
+            "feature6Desc": "जहाँ भी जाएँ ऑनलाइन रहें — ग्लोबल eSIM डेटा प्लान या क्षेत्रीय प्लान लेकर पूरे क्षेत्र और उससे आगे एक्सप्लोर करें।"
+        },
+        "faq": {
+            "faqHeading": "अक्सर पूछे जाने वाले प्रश्न",
+            "faqDescription": "eSIM सेटअप, संगतता और उपयोग के बारे में आपको जो कुछ भी जानना चाहिए।"
+        },
+        "footer": {
+            "popularDestinations": "लोकप्रिय गंतव्य",
+            "popularCountryPlan": "लोकप्रिय देश योजना",
+            "esim": "eSIM",
+            "whatIsEsim": "eSIM क्या है",
+            "supportedDevices": "समर्थित डिवाइस",
+            "aboutUs": "हमारे बारे में",
+            "allDestinations": "सभी गंतव्य",
+            "allPackages": "सभी पैकेज",
+            "allCountryPlan": "सभी देश योजना",
+            "allRegionPlan": "सभी क्षेत्र योजना",
+            "followUs": "हमें फॉलो करें",
+            "twitter": "ट्विटर (अब X)",
+            "facebook": "फेसबुक",
+            "linkedin": "लिंक्डइन",
+            "youtube": "यूट्यूब",
+            "instagram": "इंस्टाग्राम",
+            "reddit": "रेडिट",
+            "downloadOnThe": "डाउनलोड करें",
+            "appStore": "ऐप स्टोर",
+            "getItOn": "पाएं",
+            "googlePlay": "गूगल प्ले",
+            "copyright": "2025 eSIM ग्लोबल। सर्वाधिकार सुरक्षित।",
+            "privacyPolicy": "गोपनीयता नीति",
+            "termsOfService": "सेवा की शर्तें"
+        }
+    },
+    "whatIsEsim": {
+        "hero": {
+            "badge": {
+                "text": "अत्याधुनिक तकनीक",
+                "icon": "Smartphone"
+            },
+            "title": "eSIM: यह क्या है और कैसे काम करता है?",
+            "description": "क्रांतिकारी डिजिटल SIM तकनीक की खोज करें जो हमारे जुड़ाव के तरीके को बदल रही है। अब कोई भौतिक SIM कार्ड नहीं, कोई कैरियर प्रतिबंध नहीं – सिर्फ निर्बाध वैश्विक कनेक्टिविटी।",
+            "stats": {
+                "countries": {
+                    "value": "200+",
+                    "label": "देश"
+                },
+                "users": {
+                    "value": "5M+",
+                    "label": "उपयोगकर्ता"
+                },
+                "uptime": {
+                    "value": "99.9%",
+                    "label": "अपटाइम"
+                }
+            }
+        },
+        "whatIsSection": {
+            "badge": {
+                "text": "डिजिटल नवाचार",
+                "icon": "Shield"
+            },
+            "title": "eSIM क्या है?",
+            "description": "एक eSIM (एम्बेडेड SIM) एक डिजिटल SIM कार्ड है जो सीधे आपके डिवाइस में बनाया गया है। पारंपरिक भौतिक SIM कार्ड के विपरीत, eSIM प्रोग्रामेबल हैं और दूर से सक्रिय किए जा सकते हैं, जिससे कैरियर बदलना और कई फोन नंबर प्रबंधित करना आसान हो जाता है।",
+            "keyFeatures": {
+                "title": "मुख्य विशेषताएं:",
+                "feature1": "कोई भौतिक SIM कार्ड की आवश्यकता नहीं",
+                "feature2": "दूरस्थ सक्रियण और प्रावधान",
+                "feature3": "एक डिवाइस पर कई कैरियर प्रोफाइल",
+                "feature4": "बेहतर सुरक्षा और छेड़छाड़ प्रतिरोध"
+            },
+            "cta": {
+                "text": "डिवाइस संगतता जांचें",
+                "icon": "Smartphone",
+                "link": "/esim-supported-devices"
+            },
+            "floatingCard": {
+                "title": "तत्काल सेटअप",
+                "description": "कोई भौतिक SIM की जरूरत नहीं"
+            }
+        },
+        "howItWorks": {
+            "badge": {
+                "text": "स्मार्ट प्रक्रिया",
+                "icon": "Zap"
+            },
+            "title": "eSIM कैसे काम करता है?",
+            "description": "eSIM तकनीक एक सुरक्षित, ओवर-द-एयर प्रावधान प्रक्रिया के माध्यम से काम करती है। भौतिक कार्ड डालने के बजाय, आपका डिवाइस कैरियर प्रोफाइल को डिजिटल रूप से डाउनलोड और इंस्टॉल करता है, जिससे पूरी प्रक्रिया निर्बाध और तत्काल हो जाती है।",
+            "processTitle": "यह कैसे काम करता है:",
+            "steps": {
+                "step1": {
+                    "number": "1",
+                    "title": "eSIM प्लान खरीदें",
+                    "description": "अपना डेटा प्लान चुनें और हमारे ऐप के माध्यम से खरीदारी पूरी करें"
+                },
+                "step2": {
+                    "number": "2",
+                    "title": "QR कोड स्कैन करें",
+                    "description": "एक QR कोड प्राप्त करें और इसे अपने डिवाइस के कैमरे से स्कैन करें"
+                },
+                "step3": {
+                    "number": "3",
+                    "title": "स्वचालित सेटअप",
+                    "description": "आपका डिवाइस स्वचालित रूप से eSIM प्रोफाइल डाउनलोड और इंस्टॉल करता है"
+                },
+                "step4": {
+                    "number": "4",
+                    "title": "उपयोग शुरू करें",
+                    "description": "बिना किसी भौतिक SIM कार्ड के तत्काल कनेक्टिविटी का आनंद लें"
+                }
+            },
+            "cta": {
+                "text": "अब eSIM आज़माएं",
+                "icon": "Download",
+                "link": "/all-packages"
+            },
+            "statusIndicator": {
+                "text": "सक्रिय"
+            }
+        },
+        "callToAction": {
+            "title": "eSIM तकनीक का अनुभव करने के लिए तैयार हैं?",
+            "description": "दुनियाभर के लाखों उपयोगकर्ताओं के साथ जुड़ें जिन्होंने डिजिटल कनेक्टिविटी पर स्विच किया है",
+            "buttons": {
+                "downloadApp": {
+                    "text": "ऐप डाउनलोड करें",
+                    "icon": "Download",
+                    "link": "https://play.google.com/store/apps/details?id=com.esim.app"
+                },
+                "viewPlans": {
+                    "text": "प्लान देखें",
+                    "icon": "ArrowRight",
+                    "link": "/all-packages"
+                }
+            }
+        }
+    },
+    "aboutUs": {
+        "hero": {
+            "badge": {
+                "text": "हमारी कहानी",
+                "icon": "Heart"
+            },
+            "title": "eSIM Tell के बारे में",
+            "description": "दुनियाभर के यात्रियों को निर्बाध, किफायती eSIM समाधान से जोड़ना।"
+        },
+        "mission": {
+            "badge": {
+                "text": "हमारा मिशन",
+                "icon": "Globe"
+            },
+            "title": "वैश्विक कनेक्टिविटी में क्रांति",
+            "description": "हम निर्बाध, तत्काल eSIM समाधान प्रदान करते हैं जो आपको जहाँ भी आपकी यात्रा ले जाए, आपको जुड़े रखते हैं। अब कोई महंगे रोमिंग शुल्क या स्थानीय SIM कार्ड की परेशानी नहीं।",
+            "keyPoints": {
+                "point1": "60 सेकंड में तत्काल सक्रियण",
+                "point2": "180+ देशों में कवरेज",
+                "point3": "पारदर्शी मूल्य निर्धारण"
+            },
+            "cta": {
+                "text": "प्लान देखें",
+                "icon": "ArrowRight",
+                "link": "/all-destinations"
+            },
+            "floatingBadge": {
+                "value": "180+",
+                "label": "देश"
+            }
+        },
+        "team": {
+            "badge": {
+                "text": "हमारी टीम",
+                "icon": "Users"
+            },
+            "title": "यात्रियों द्वारा, यात्रियों के लिए निर्मित",
+            "description": "हमारी इंजीनियरों और यात्रा विशेषज्ञों की टीम यह सुनिश्चित करने के लिए अथक रूप से काम करती है कि आपका कनेक्टिविटी अनुभव निर्दोष हो। हमने अपने समाधानों को दुनियाभर के वास्तविक परिदृश्यों में परखा है।",
+            "stats": {
+                "users": {
+                    "value": "1M+",
+                    "label": "खुश उपयोगकर्ता"
+                },
+                "support": {
+                    "value": "24/7",
+                    "label": "सहायता"
+                }
+            },
+            "values": {
+                "value1": "सुरक्षा प्रथम दृष्टिकोण",
+                "value2": "ग्राहक-केंद्रित"
+            },
+            "floatingRating": {
+                "stars": 5,
+                "rating": "4.9"
+            }
+        },
+        "technology": {
+            "badge": {
+                "text": "नवाचार",
+                "icon": "Zap"
+            },
+            "title": "यात्रा कनेक्टिविटी का भविष्य",
+            "description": "हमारा अत्याधुनिक eSIM प्लेटफॉर्म दुनियाभर में सबसे बेहतर उपलब्ध नेटवर्क से स्वचालित रूप से कनेक्ट करने के लिए AI का उपयोग करता है। रियल-टाइम ऑप्टिमाइजेशन सबसे तेज़, सबसे विश्वसनीय कनेक्शन सुनिश्चित करता है।",
+            "techFeatures": {
+                "feature1": "AI नेटवर्क चयन",
+                "feature2": "स्मार्ट रोमिंग तकनीक",
+                "feature3": "सैन्य-स्तरीय सुरक्षा"
+            },
+            "performanceStats": {
+                "uptime": {
+                    "value": "99.9%",
+                    "label": "अपटाइम"
+                },
+                "activation": {
+                    "value": "< 30s",
+                    "label": "सक्रियण"
+                }
+            },
+            "cta": {
+                "text": "पैकेज देखें",
+                "icon": "ArrowRight",
+                "link": "/all-destinations"
+            },
+            "floatingBadge": {
+                "value": "5G",
+                "label": "तैयार"
+            }
+        },
+        "cta": {
+            "title": "वैश्विक कनेक्टिविटी का अनुभव करने के लिए तैयार हैं?",
+            "description": "दुनियाभर के लाखों यात्रियों के साथ जुड़ें जो निर्बाध कनेक्टिविटी के लिए eSIM Tell पर भरोसा करते हैं।",
+            "button": {
+                "text": "प्लान ब्राउज़ करें",
+                "icon": "Globe2",
+                "link": "/all-packages"
+            }
+        }
+    },
+    "profile": {
+        "header": {
+            "defaultAlt": "उपयोगकर्ता",
+            "joined": "शामिल हुए"
+        },
+        "sidebar": {
+            "title": "खाता सेटिंग्स",
+            "navigation": {
+                "accountInfo": "खाता जानकारी",
+                "accountInfoDesc": "अपनी व्यक्तिगत जानकारी प्रबंधित करें",
+                "esimDetails": "मेरे ई-सिम विवरण",
+                "esimDetailsDesc": "अपने eSIM प्रोफाइल प्रबंधित करें",
+                "orderHistory": "ऑर्डर इतिहास",
+                "orderHistoryDesc": "अपना खरीदारी इतिहास देखें",
+                "privacyPolicy": "गोपनीयता नीति",
+                "privacyPolicyDesc": "हमारी गोपनीयता शर्तें पढ़ें",
+                "termsConditions": "नियम और शर्तें",
+                "termsConditionsDesc": "सेवा की शर्तें देखें",
+                "faq": "अक्सर पूछे जाने वाले प्रश्न",
+                "faqDesc": "बार-बार पूछे जाने वाले प्रश्न",
+                "customerSupport": "ग्राहक सहायता",
+                "customerSupportDesc": "सहायता और समर्थन प्राप्त करें"
+            }
+        },
+        "pages": {
+            "accountInfo": {
+                "profileInfo": {
+                    "title": "प्रोफाइल जानकारी",
+                    "profile": {
+                        "imageAlt": "प्रोफाइल चित्र",
+                        "changePhoto": "फोटो बदलें",
+                        "defaultName": "उपयोगकर्ता नाम",
+                        "memberSince": "{date} से सदस्य",
+                        "memberSinceDefault": "मार्च 2024 से सदस्य",
+                        "imageSelected": "नई इमेज चुनी गई - अपडेट करने के लिए सेव करें"
+                    },
+                    "form": {
+                        "fullName": "पूरा नाम",
+                        "namePlaceholder": "अपना पूरा नाम दर्ज करें",
+                        "email": "ईमेल पता",
+                        "country": "देश",
+                        "currency": "मुद्रा",
+                        "selectCurrency": "मुद्रा चुनें",
+                        "verified": "सत्यापित",
+                        "updateButton": "प्रोफाइल अपडेट करें",
+                        "updating": "अपडेट हो रहा है..."
+                    },
+                    "kyc": {
+                        "title": "KYC स्थिति",
+                        "label": "अपने ग्राहक को जानें (KYC)",
+                        "description": "पहचान सत्यापन स्थिति",
+                        "status": {
+                            "approved": "स्वीकृत",
+                            "rejected": "अस्वीकृत",
+                            "pending": "लंबित",
+                            "notApplied": "आवेदन नहीं दिया"
+                        }
+                    },
+                    "messages": {
+                        "updateSuccess": "प्रोफाइल सफलतापूर्वक अपडेट हुई",
+                        "updateError": "प्रोफाइल अपडेट करने में विफल",
+                        "nameRequired": "कृपया अपना पूरा नाम दर्ज करें",
+                        "currencyRequired": "कृपया एक मुद्रा चुनें",
+                        "imageTooLarge": "इमेज का साइज़ 5MB से कम होना चाहिए",
+                        "invalidImageFormat": "कृपया एक वैध इमेज फॉर्मेट चुनें (JPEG, JPG, PNG, WebP)"
+                    }
+                },
+                "packageCard": {
+                    "title": "पैकेज विवरण",
+                    "topUp": {
+                        "button": "टॉप अप"
+                    },
+                    "location": {
+                        "flagAlt": "{country} का झंडा"
+                    },
+                    "usage": {
+                        "internet": "इंटरनेट",
+                        "unlimited": "असीमित",
+                        "dataRemaining": "{remaining} / {total} GB",
+                        "progressLabel": "{percent}% डेटा उपयोग किया गया",
+                        "smsLeft": "{count} SMS बचे हैं",
+                        "smsNotAvailable": "SMS उपलब्ध नहीं",
+                        "callMinsLeft": "{mins} कॉल मिनट बचे हैं",
+                        "callNotAvailable": "कॉल उपलब्ध नहीं"
+                    },
+                    "expiry": {
+                        "text": "{date} को समाप्त होता है"
+                    },
+                    "noPackage": {
+                        "title": "कोई सक्रिय पैकेज नहीं",
+                        "description": "आपके पास कोई सक्रिय eSIM पैकेज नहीं है"
+                    }
+                },
+                "kycVerification": {
+                    "title": "अपना KYC सत्यापन पूरा करें",
+                    "card": {
+                        "title": "अपनी पहचान सत्यापित करें",
+                        "description": "सभी सुविधाओं को अनलॉक करने और अपनी लेनदेन सीमा बढ़ाने के लिए अपना KYC सत्यापन पूरा करें।"
+                    },
+                    "documents": {
+                        "title": "आवश्यक दस्तावेज:",
+                        "photoId": "सरकार द्वारा जारी फोटो ID (पासपोर्ट, ड्राइविंग लाइसेंस, आधार)",
+                        "proofAddress": "पता प्रमाण (उपयोगिता बिल, बैंक स्टेटमेंट)",
+                        "recentPhoto": "हाल की तस्वीर (सेल्फी)"
+                    },
+                    "benefits": {
+                        "title": "KYC के बाद के फायदे:",
+                        "higherLimits": "उच्च लेनदेन सीमा",
+                        "premiumPlans": "प्रीमियम प्लान तक पहुंच",
+                        "prioritySupport": "प्राथमिकता ग्राहक सहायता",
+                        "enhancedSecurity": "बेहतर खाता सुरक्षा"
+                    },
+                    "startProcess": "KYC प्रक्रिया शुरू करें",
+                    "modal": {
+                        "title": "KYC दस्तावेज़ जमा करें"
+                    },
+                    "form": {
+                        "fullName": "पूरा नाम",
+                        "dob": "जन्म तिथि",
+                        "address": "पता",
+                        "identityCardNo": "पहचान कार्ड नंबर",
+                        "identityCard": "पहचान कार्ड",
+                        "panCard": "पैन कार्ड",
+                        "recentPhoto": "हाल की तस्वीर",
+                        "placeholders": {
+                            "fullName": "ID के अनुसार अपना पूरा नाम दर्ज करें",
+                            "address": "अपना पूरा पता दर्ज करें",
+                            "identityCardNo": "ID नंबर दर्ज करें (आधार/पासपोर्ट/लाइसेंस)"
+                        },
+                        "fileFormats": "स्वीकृत प्रारूप: JPG, PNG, PDF (अधिकतम 5MB)",
+                        "imageFormats": "स्वीकृत प्रारूप: JPG, PNG (अधिकतम 5MB)",
+                        "validation": {
+                            "fullNameRequired": "पूरा नाम आवश्यक है",
+                            "dobRequired": "जन्म तिथि आवश्यक है",
+                            "addressRequired": "पता आवश्यक है",
+                            "identityCardNoRequired": "पहचान कार्ड नंबर आवश्यक है",
+                            "identityCardRequired": "पहचान कार्ड दस्तावेज़ आवश्यक है",
+                            "panCardRequired": "पैन कार्ड दस्तावेज़ आवश्यक है",
+                            "photoRequired": "हाल की तस्वीर आवश्यक है"
+                        },
+                        "cancel": "रद्द करें",
+                        "submit": "KYC जमा करें",
+                        "submitting": "जमा कर रहे हैं..."
+                    }
+                },
+                "deleteAccount": {
+                    "dangerZone": "खतरा क्षेत्र",
+                    "title": "खाता हटाएं",
+                    "description": "आप अपना खाता स्थायी रूप से हटा सकते हैं। ध्यान दें कि इस प्रक्रिया में समय लग सकता है और पूरा होने के बाद इसे पूर्ववत नहीं किया जा सकता।",
+                    "confirmText": "मेरा खाता हटाएं",
+                    "consequences": {
+                        "title": "जब आप अपना खाता हटाते हैं तो क्या होता है:",
+                        "personalData": "आपका सारा व्यक्तिगत डेटा स्थायी रूप से हटा दिया जाएगा",
+                        "esimPlans": "सक्रिय eSIM योजनाएं निष्क्रिय हो जाएंगी",
+                        "orderHistory": "ऑर्डर इतिहास और लेनदेन रिकॉर्ड हटा दिए जाएंगे",
+                        "membershipBenefits": "आप सभी सदस्यता लाभों तक पहुंच खो देंगे",
+                        "irreversible": "इस कार्रवाई को पूर्ववत नहीं किया जा सकता"
+                    },
+                    "button": {
+                        "delete": "खाता हटाएं",
+                        "deleting": "हटा रहे हैं..."
+                    },
+                    "modal": {
+                        "title": "क्या आप बिल्कुल सुनिश्चित हैं?",
+                        "description": "इस कार्रवाई को पूर्ववत नहीं किया जा सकता। यह आपके खाते को स्थायी रूप से हटा देगा और हमारे सर्वर से आपका सारा डेटा हटा देगा।",
+                        "youWillLose": "आप खो देंगे:",
+                        "loss": {
+                            "esimPlans": "सभी सक्रिय eSIM योजनाएं",
+                            "balance": "खाता शेष और पुरस्कार",
+                            "orderHistory": "ऑर्डर इतिहास",
+                            "membership": "सदस्यता लाभ"
+                        },
+                        "typeToConfirm": "पुष्टि करने के लिए नीचे \"{text}\" टाइप करें:",
+                        "placeholder": "टाइप करें: {text}",
+                        "textMismatch": "टेक्स्ट मैच नहीं करता। कृपया बिल्कुल टाइप करें: \"{text}\"",
+                        "textMatches": "✓ पुष्टिकरण टेक्स्ट मैच करता है",
+                        "cancel": "रद्द करें",
+                        "confirm": "हां, मेरा खाता हटाएं",
+                        "deleting": "हटा रहे हैं..."
+                    },
+                    "messages": {
+                        "success": "खाता हटाना सफलतापूर्वक शुरू हुआ",
+                        "error": "खाता हटाने में विफल। कृपया पुनः प्रयास करें।",
+                        "confirmTextMismatch": "हटाने की पुष्टि करने के लिए कृपया \"{text}\" बिल्कुल सही टाइप करें।"
+                    }
+                }
+            },
+            "orderHistory": {
+                "title": "ऑर्डर इतिहास",
+                "subtitle": "अपनी सभी eSIM खरीदारी और सब्सक्रिप्शन को ट्रैक करें",
+                "loading": "ऑर्डर लोड हो रहे हैं...",
+                "summary": "{total} में से {showing} ऑर्डर दिखाए जा रहे हैं",
+                "fields": {
+                    "orderRef": "ऑर्डर संदर्भ",
+                    "status": "ऑर्डर स्थिति",
+                    "amount": "राशि",
+                    "orderedOn": "ऑर्डर दिनांक",
+                    "notAvailable": "उपलब्ध नहीं"
+                },
+                "status": {
+                    "delivered": "पहुंचा दिया गया",
+                    "shipped": "भेज दिया गया",
+                    "processing": "प्रसंस्करण",
+                    "cancelled": "रद्द",
+                    "completed": "पूर्ण",
+                    "pending": "लंबित"
+                },
+                "currency": {
+                    "format": "₹{amount}"
+                },
+                "actions": {
+                    "viewDetails": "विवरण देखें",
+                    "downloadInvoice": "चालान डाउनलोड करें",
+                    "trackOrder": "ऑर्डर ट्रैक करें",
+                    "contactSupport": "सहायता से संपर्क करें"
+                },
+                "empty": {
+                    "title": "कोई ऑर्डर नहीं मिला",
+                    "description": "आपने अभी तक कोई ऑर्डर नहीं दिया है। हमारी योजनाओं का पता लगाना शुरू करें!",
+                    "browsePlans": "योजनाएं देखें"
+                },
+                "pagination": {
+                    "previous": "पिछला",
+                    "next": "अगला",
+                    "pageInfo": "पृष्ठ {current} का {total}"
+                },
+                "filters": {
+                    "all": "सभी ऑर्डर",
+                    "completed": "पूर्ण",
+                    "pending": "लंबित",
+                    "cancelled": "रद्द"
+                }
+            },
+            "esimDetails": {
+                "title": "मेरा eSIM",
+                "subtitle": "अपने सक्रिय eSIM प्रोफाइल और डेटा प्लान प्रबंधित करें",
+                "loading": "आपका eSIM विवरण लोड हो रहा है...",
+                "instructionsModal": {
+                    "title": "स्थापना निर्देश"
+                },
+                "fields": {
+                    "iccid": "ICCID:",
+                    "matchingId": "मैचिंग ID:",
+                    "status": "स्थिति:",
+                    "activatedAt": "सक्रिय किया गया:",
+                    "expiredAt": "समाप्त हुआ:",
+                    "activatedOn": "सक्रिय दिनांक:",
+                    "expiryOn": "समाप्ति दिनांक:",
+                    "validity": "वैधता:",
+                    "price": "मूल्य:",
+                    "package": "पैकेज:",
+                    "data": "डेटा:",
+                    "apnIos": "APN (iOS):",
+                    "apnAndroid": "APN (Android):"
+                },
+                "status": {
+                    "active": "सक्रिय",
+                    "expired": "समाप्त",
+                    "inactive": "निष्क्रिय"
+                },
+                "timeLeft": {
+                    "expired": "समाप्त",
+                    "left": "{time} बचा है",
+                    "days": "{count} दिन",
+                    "days_plural": "{count} दिन",
+                    "hours": "{count} घंटा",
+                    "hours_plural": "{count} घंटे",
+                    "minutes": "{count} मिनट"
+                },
+                "actions": {
+                    "topup": "टॉप अप",
+                    "view": "देखें",
+                    "installOnIos": "iOS पर इंस्टॉल करें",
+                    "installOnAndroid": "Android पर इंस्टॉल करें",
+                    "instructions": "स्थापना निर्देश"
+                },
+                "modal": {
+                    "title": "eSIM विवरण",
+                    "orderInfo": "ऑर्डर जानकारी",
+                    "installationGuide": "इंस्टॉलेशन गाइड"
+                },
+                "empty": {
+                    "title": "कोई eSIM डेटा नहीं मिला",
+                    "description": "आपके पास अभी तक कोई eSIM डेटा नहीं है।"
+                },
+                "currency": {
+                    "format": "{price} {currency}"
+                },
+                "validity": {
+                    "format": "{days} दिन"
+                }
+            }
+        }
+    }
+}

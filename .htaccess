@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Redirect all requests to /public
+    RewriteCond %{REQUEST_URI} !^/public
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ public/$1 [L]
+
+    # If you want media files accessible directly from storage/app/public
+    RewriteCond %{REQUEST_URI} ^/media
+    RewriteRule ^media/(.*)$ public/storage/$1 [L]
+</IfModule>

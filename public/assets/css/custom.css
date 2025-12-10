@@ -1,0 +1,13 @@
+.custom-switch {
+  width: 2.5rem !important;
+  height: 1.5rem;
+  transform: scale(1.5);
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+/* Green when checked */
+.custom-switch:checked {
+  background-color: #22c55e;
+  border-color: #22c55e;
+}
